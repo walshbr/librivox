@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+geograpy/__init__.py
+geograpy/extraction.py
+geograpy/places.py
+geograpy/utils.py
+geograpy.egg-info/PKG-INFO
+geograpy.egg-info/SOURCES.txt
+geograpy.egg-info/dependency_links.txt
+geograpy.egg-info/not-zip-safe
+geograpy.egg-info/requires.txt
+geograpy.egg-info/top_level.txt
+geograpy/bin/geograpy-nltk
+geograpy/data/GeoLite2-City-Locations.csv
+geograpy/data/ISO3166ErrorDictionary.csv

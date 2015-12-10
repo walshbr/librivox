@@ -1,0 +1,1 @@
+I'd bump it up to 60 (13 additional) except I'm at work, which only has IE, and it's not compatible with the database admin page.  I'll add them this evening when I get home, unless some other kind admin does it for me. If that's too many, we can delete some later, or add some more if more are needed.

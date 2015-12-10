@@ -1,0 +1,1 @@
+We need a bit more information - what format are you trying to download and  where from - otherwise we don't know where to look   Does it start to download ? Is the downloaded file corrupt ?Anne

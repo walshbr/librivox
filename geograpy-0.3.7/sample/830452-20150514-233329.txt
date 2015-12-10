@@ -1,0 +1,14 @@
+Try this site for the LAME encoder: http://lame.buanzo.com.ar/
+
+...download the libmp3lame-win-3.98.2.zip file where it says ZIP OPTION:
+
+...and follow the directions here: http://wiki.audacityteam.org/index.php? ... stallation
+
+That should get you all set.
+
+Good luck!
+
+
+
+
+ Jim

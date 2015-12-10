@@ -1,0 +1,3 @@
+SSherris wrote:Blinking only works in the Magic Window, since you can use html there.  The Forums are limited to BBCode FYI - the tag is <blink>
+
+Hee hee, I checked your magic window and found the code.  

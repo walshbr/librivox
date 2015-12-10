@@ -1,0 +1,9 @@
+chocoholic wrote:I have to admit I don't much care for the flag to indicate language.  If I didn't know it was language, I would have thought the British flag meant that this was a British book (i.e. that the author was British).  I'm with Laurie Anne on this one. I thought it meant it was a british book. Also, I think there were some issues with using flags to denote languages, since some people might think that it was read by a british reader, and why-UK-but-not-US-flag and so on. 
+
+I was also thinking that we might keep the Download warning box, but instead of the copyright warning, I think it would be neat if we had a system like in WikiSource, where we can tag a book as being "OLD", "70+", "50+", &c. We could have a line that says something like "Copyright warning: This author/translator has died less than 70 years ago." The line could go in the same block as the Summary. 
+
+I think a warning like that would be more useful than a general warning, since I tend to just skip over these (and I'm sure I'm not the only one...). 
+
+Of course, that would mean a bit more work for the MC, but not that much, since it's just adding 1 line to the summary. 
+
+Oh, and I think Find Out More should go above Listen to this Audiobook, such that all things related to the listening (the text block and the table with the chapters) can been in the same block. I think the "flow" will be nicer.

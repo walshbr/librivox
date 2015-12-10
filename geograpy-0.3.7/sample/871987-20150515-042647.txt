@@ -1,0 +1,3 @@
+hugh wrote:flattery is all that is...
+
+Whatever the intent is, it means that if someone typoes "libravox" into their browser, or mistakenly thinks it's "libravox" they're brought to that page and then can find the real librivox. I suppose it's a small price to pay seeing the ads for having a free redirect service, albeit a service that requires one to manually redirect themselves.

@@ -1,0 +1,7 @@
+A couple more things to consider.
+
+Does your microphone plug directly into the sound card of your computer?
+
+Do your audio cables go anywhere near your power cables?
+
+Do your power cables all have ground pins?

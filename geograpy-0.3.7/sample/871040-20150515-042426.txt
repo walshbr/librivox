@@ -1,0 +1,8 @@
+Thanks for that, I was afraid that the pages were being "generated" by hand rather than automatically, which does make it harder for you guys 
+
+I've not tried the arvhive.org pages, finding stuff there can be a little bit...trying at times, but I'll give it a go if I decide to download project which is particularly populous, thanks for the suggestion!
+
+Hopefully when (or if?) you get to switch over to storing the information for each book in a database, then this will become very easy to implement as you say.  For now, I reckon I can live with the little bit of hardship of selecting links individually 
+
+Thanks!
+Kieren

@@ -1,0 +1,1 @@
+Hi, dillThe new files should be named exactly as the old ones: this way we have the good files with the correct name. The old files get automatically renamed, so they are still available, just under a slightly different name. 

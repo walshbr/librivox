@@ -1,0 +1,1 @@
+OK, all set. If, when you enter your titles in the MW, you'll start them with the section number (e.g. "01 - "), then there'll be no need to do the ID3 tags on each individual file, because I'll be able to pull them from there during cataloging.And may I suggest a change to the titles, after looking at your suggested ID3 tags: "01 – The Family Curse"

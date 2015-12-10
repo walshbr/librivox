@@ -1,0 +1,1 @@
+Hi Jesse, Thanks so much! Now for the bad news  (sorry  ) - I downloaded it to check the tech things for you, and everything is correct except for the sampling rate. It is 48,000 HZ and it should be 41,000 Hz.  If that is corrected I'll  give you that A++++.   But don't fix and re-upload until Carolin PL's the file, in case there are any other edits needed.

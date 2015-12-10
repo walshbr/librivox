@@ -1,0 +1,1 @@
+The Checker program has extremely low threshholds for background noise and DC offset, so you can always ignore those reports.  It's best to to go by your ears for noise.  You can see DC offset in Audacity, but even if it's present it's not really a problem unless you can hear it (clicks at edit points).

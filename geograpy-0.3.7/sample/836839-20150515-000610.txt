@@ -1,0 +1,9 @@
+PaulW wrote:One note about the individial audio files inside the zip file, though, is that none of them have a genre, and only Chapter 45 has a track number. 
+
+Paul,
+
+This is normal.  When archive.org derives the 64kbps and zip file, the genre and track numbers assigned during cataloging are typically lost.  The original 128 kbps files should have the genre and all the track numbers intact.  
+
+Thanks for downloading and re-checking the zip.  
+
+Jo

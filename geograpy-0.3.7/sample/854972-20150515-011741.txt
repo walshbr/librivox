@@ -1,0 +1,1 @@
+My Android tablet's browser allows for long-press which opens up the right-click type options.  Otherwise the solution is to use the link in the reader's post rather than the Magic Window.

@@ -1,0 +1,4 @@
+I am having trouble accessing the BC admin page.
+Every time I click on the link a new tab opens with a message telling me I must be a book coordinator to access the page. Occasionally, the password dialog box has appeared and I have entered the correct user name and password, but I still receive the same message.
+Is there any way to fix that? Am I doing it wrong? (half my computer problems are operator error  )
+Rlowalrus.

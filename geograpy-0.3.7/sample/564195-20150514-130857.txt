@@ -1,0 +1,3 @@
+Everything's all set!  Just a couple of notes: I changed your text link to Gutenberg's main page for the book (that is the one we use in the catalog), so for future projects please go ahead and enter that one.  Also I entered your new URL but the link is giving me a 404 error, so I will find out what's going on with that.  Currently your individual recordings all link back to your Librivox catalog page (as is standard when there is no personal URL linked).  And last, sometime before cataloging time could you tell me which genre(s) fit? http://librivox.org/newcatalog/genres.php .  I am guessing War Stories just from the title. 
+
+Have fun with this!  I'll be back after I check on that link.  Your website works fine, it's the link on the catalog page that is wonky.

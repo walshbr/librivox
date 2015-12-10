@@ -1,0 +1,7 @@
+ezwa wrote:Bonsoir Didier, Quelques trucs à faire avant de rentrer ce projet dans la base de données. Je te dis quand c'est fait. Concernant l'intro, que penses-tu de : "Chapitre X du livre Y de Fantine. Ceci... Les misérables, tome un, de Victor Hugo. Fantine, livre Y, Chapitre X" ou "Chapitre X du livre Y des Misérables, tome un. Ceci... Les misérables, tome un, de Victor Hugo. Fantine, livre Y, Chapitre X - Titre du chapitre". La première fois qu'on nomme la section, c'est pour que les auditeurs entendent où ils en sont sans devoir attendre ou avancer d'une quarantaine de seconde pour savoir ce qu'ils sont en train d'écouter. À plus tard ! PS : je crois que je pencherais vers la deuxième proposition. Qu'en penses-tu ?Bonsoir Ezwa,merci pour tout le travail que tu fournis Quelle misère !  Non seulement les chapitres ont un nom, mais aussi les livres et les tomes, p. ex. :Quote:Livre [premier – Un juste]. Chapitre [un] [Monsieur Myriel] de [LES MISÉRABLES, TOME I - Fantine]. xxxLES MISÉRABLES, TOME I de VICTOR HUGO. Livre [premier – Un juste]. Chapitre [un] [Monsieur Myriel]
+Ça fait donc beaucoup, tout cela...
+
+Autrement jusqu'ici j'ai inversé l'ordre (Livre/Chapitre au lieu de Chapitre/Livre) dans mes enregistrements (mais ce serait facile de le modifier). 
+
+A plus tard ! 
+Didier

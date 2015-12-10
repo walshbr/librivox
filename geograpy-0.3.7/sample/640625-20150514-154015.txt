@@ -1,0 +1,7 @@
+Thanks for the PL Shelagh. I think something is up with my version of Audacity...never had any problems of this kind til this project, so I think something in my set-up has gone wonky.
+
+I exported the file as a 128kb and it still says that it is when I check it...so I cannot fathom why it is showing up as 160kb (what an odd rate!?).
+
+Also, although there is silence at the end, you're not the only one to have it malfunction on you. Hmmmm. Every time I export to an MP3, Audacity crashes at the very end of the process. However, when I test the MP3 file, it seems fine, so I haven't worried.
+
+Now, however, I think it's doing something weird. Let me install a slightly earlier version of Audacity (if I can still find it) and then re-export 19 and 20 and see if that fixes it. I'll do this tonight (PST) and get them up there for ya.

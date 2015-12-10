@@ -1,0 +1,11 @@
+Hey all,
+
+Just wanted to toss out a blurb about a Windows audio editing program I've been using for several years, and which I think might be of some use for LV folks.  It's called Multiquence, and can be found at:
+
+http://www.goldwave.com/mqfeatures.php
+
+It's a multitrack audio/video mixer...basically a cheap alternative to something like Adobe Premiere.  One of the things I love about it is that there's no waiting for anything to render or process...all mixing is done in realtime.  I've used it a lot to mix multi-layered audio, and it works quite well for a shareware program ($45 US).  I've used it since joining LibriVox to edit all my raw recordings, and it works like a dream.  There have been times when I've wanted to cross-fade in the middle of a word between two different takes, like if I start saying a word but my throat catches on the end.  Rather than start the whole long sentence over, I'll start a few words back and keep rolling.  Providing that the two takes are spoken similarly enough, it's impossible to tell that the edit was even done.
+
+Anyway, I hadn't seen any other mention of Multiquence in the forums, so I thought I'd give it a plug.  I don't get anything from it...just a very satisfied user of many years.
+
+Cheers!

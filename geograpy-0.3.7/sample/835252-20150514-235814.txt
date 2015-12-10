@@ -1,0 +1,8 @@
+Dear friends,
+This is my first post here. So excuse me if this question is already asked and answered.
+A friend of mine has been producing audio books for distribution in schools for visually impaired. The material is text books for the various classes. They used cassettes and audio CDs. Recently, they started making mp3 cds for distribution.
+Here is the problem: The mp3 cd can contain quite a large amount of material. May be two Text books. Each textbook contains Groups and chapters. So the recording is to be divided into chapters and the whole file system may be in a heirarchy of folders, subfolders and chapters. May be each chapter can be in two or more files depending on the size.
+The mp3 cdplayers are mostly CD/VCD/DVD players and navigation is through TV. This is not useful for Visually Impaired students.
+Any players out there where navigation through the file system is easy for a visually impaired student? Any other solution?
+Many thanks in advance for your patience and help.
+--Sarma

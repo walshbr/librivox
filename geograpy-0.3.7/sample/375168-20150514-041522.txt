@@ -1,0 +1,3 @@
+smijen: Oh, I didn't realize the time was needed (I figured you'd just get it from the file itself.)  No worries, though - I'll work on adding those times, shouldn't be too hard.
+
+bperiwinkle: Thanks for the thorough PL'ing  Hmm, I'm trying to figure out what to do with the footnotes.  The first footnote about Omega verbs could kinda flow with the reading at the end of the sentence.  A footnote during the middle of a list of verbs, though, breaks up the sequencing.  I didn't know where to put the footnote, so I just left it out.  I'm willing to try sticking them in, though.

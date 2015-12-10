@@ -1,0 +1,1 @@
+Hello, I fixed the volume, and I think I exported in mono this time.  It's a bit tricky because I don't use Audacity, and the specs for my DAW don't read the same, but I think I got it right this time.  https://librivox.org/uploads/tests/test_heathermasters.mp3Thanks!

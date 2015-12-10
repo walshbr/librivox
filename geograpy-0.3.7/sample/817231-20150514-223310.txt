@@ -1,0 +1,1 @@
+Another possibility:If you check a thread without logging in, the forum software will not know that you already checked the thread. Then it will not send you a new notification until you log in and check the thread again.This often happens, and people wonder why they don't get a new notification. It's because they didn't "clear" the old one.

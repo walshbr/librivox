@@ -1,0 +1,14 @@
+Jacquerie wrote:Got some new recording software today, which allows me a little more flexibility in setting volume than Audacity.   But see what you think...http://upload.librivox.org/share/upload ... anklin.mp3If this doesn't work, I'm out of options.  
+Hi Jacquerie, Rubys PM me to listen to your file to see if I can help with the volume. I have listened to your test and chapter 35, your settings are spot on, you have a lovely clear voice and a steady pace. The volume could still do with being increased, when I first started recording I had the same problem so your definitely not on your own there. 
+
+The first thing I had to do was to increase the volume input on the computer (not really being a software thingy, audacity works great for me)
+
+To increase volume input go to the Control Panel on computer, then go into Sound - then Recording - then Properties - and you will then find the level meter. I have had to move the meter up to around the 90 mark. (but this could vary depending on your personal preference) 
+
+I should mention that the above process is on Vista but I did follow the same steps when I was using XP ( most windows programs are the same )
+
+Rubys will PL 35 and if everything is okay I can increase the volume for you (using audacity) no need to rerecord, 
+
+Nothing is too hard that we can't sort it out together, I'm sure.  
+
+Lucy  

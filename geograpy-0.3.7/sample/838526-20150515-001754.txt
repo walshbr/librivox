@@ -1,0 +1,8 @@
+I have heard you can attach your ID3 Tags in iTunes.
+Does anyone know if this is done under "Get Info?"
+
+I am asking because I tried it...it worked...but the title of the files didn't have the "_" underscores.
+
+Thank you so much for your help.
+
+Aaron Elliott

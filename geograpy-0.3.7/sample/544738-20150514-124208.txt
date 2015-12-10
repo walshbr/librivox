@@ -1,0 +1,1 @@
+It's just not there.  But - when you try to download an empty link, misleading things happen.  They couldn't tell you "this file doesn't exist" - that would be too easy!

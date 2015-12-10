@@ -1,0 +1,1 @@
+I know how to restart recording at the end of an AUP file (press shift key).  Is there a way to start recording in the interior of the file.  Up till now, I have started a new file, copied it and then inserted it.  Don

@@ -1,0 +1,1 @@
+Hello everyone,I use Garageband (as Audacity is not supported on my mac), and was asked to make the following edits to one of my files, but do not know how.... I was a wondering if anyone knows how to adjust for the following settings in Garageband? Noise reduction: 10Sensitivity: 0Frequency: 150Attack/Decay: 0.15I would very much appreciate any & all help!Thanks so much,Karen

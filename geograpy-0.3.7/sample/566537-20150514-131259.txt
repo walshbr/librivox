@@ -1,0 +1,1 @@
+Please update magic window to indicate that tag issues with Section 06 have been fixed.

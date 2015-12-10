@@ -1,0 +1,1 @@
+This recording is in mono now, which is correct.However the volume is too quiet. It is 86dB but needs to be between 87 and 91 dB (89 being optimum). You can use this programme to check volume of recordings http://cgjennings.ca/checker/#DownloadIt is up to you whether you post another test, or start recording now, but to make sure to keep an eye on your volume! 

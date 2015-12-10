@@ -1,0 +1,1 @@
+Thanks Julia! I think I fixed the problems. http://dev.librivox.org/uploads/tests/test_nataliem.mp3It wouldn't let me select "stereo to mono" when I re-recorded but when saving it said it would be mixed down to mono... so I hope that worked.

@@ -1,0 +1,13 @@
+Is there a way to hear yourself in a headset while you are recording?
+
+Audacity has a feature it calls "Software playthrough" (see Edit > Preferences > Recording).
+
+However, the audio in the headphones has a latency of about 1/2 second, even if the Latency settings are changed to zero.
+
+Does anyone know how to configure Audacity to get this effect? I am using a USB microphone, if that matters. 
+
+I'd really like to hear the audio as I am recording it.
+
+Thanks.
+
+Frank

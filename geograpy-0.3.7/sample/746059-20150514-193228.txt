@@ -1,0 +1,5 @@
+Uploading.  I've added a suffix to the file name, which can be stripped off:  FINAL followed by a number,  in case of last minutes changes.  So the highest FINAL number for each file is the one to use.
+
+EDIT ... No.  There are problems with the uploader for me. I'll put them on Mediafire this evening.  
+
+Peter

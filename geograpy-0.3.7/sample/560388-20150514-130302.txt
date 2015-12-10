@@ -1,0 +1,19 @@
+Hi folks. Here's my three sections:
+
+
+Section 01
+Length: 12:32
+Link: http://upload.librivox.org/share/upload ... ghandi.mp3
+
+
+Section 02
+Length: 5:38
+Link: http://upload.librivox.org/share/upload ... ghandi.mp3
+
+
+Section 03
+Length: 23:13
+Link: http://upload.librivox.org/share/upload ... ghandi.mp3
+
+
+BTW, the instructions say the ID3 V2 tag "Album" should be "Third Class on Indian Railways"; should it not be "Third Class IN Indian Railways"?

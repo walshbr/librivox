@@ -1,0 +1,7 @@
+GordMackenzie wrote:I don't have an ipod, but I thought this little freeware application might interest those that do:MP3 to iPod Audio Book Converter    * Convert MP3 audio books to iPod audio books file format.    * Use your iPod's Audio Books Features.    * Combine multible MP3 files into a single file for seamless listening.    * Easy to use. Free. Open Source.http://www.freeipodsoftware.com
+
+1. This is a Windows app only.
+2. Puzzling that anyone would use this, as iPod/iTunes are joined at the hip.
+3. The Converter does what iTunes does already.
+
+Thanks GM

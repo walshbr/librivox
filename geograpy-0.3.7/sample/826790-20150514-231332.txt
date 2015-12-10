@@ -1,0 +1,3 @@
+Agreed with gloriana here. GB converted all my recordings to stereo and removed the silence at the end, noisecleaning is almost impossible.
+
+I usually suggest to record in GB (it is much easier to understand than Audacity for Newbies), edit in Audacity and export from Audacity, and when they get used to Audacity they will spontaneously end up recording in it too.

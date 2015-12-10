@@ -1,0 +1,15 @@
+SoundForge can be a bit tricky - it's one of those programs that's made for people who already know how to use it! 
+
+You have to remember to hit Edit : Select All first, or you can click and slide to select a certain passage, then you go to Process : Volume.
+
+Now you've got a slider that goes up and down, and it's set at a certain spot that only those who designed the program understand.  You would probably want to use a much less severe setting than the one that shows up on the slider, so you'd probably want to move the slider up so that the effect is only 1.7 to 2.5dB, but you can play around and see what level works for you.  
+
+You can use Normalize, but it's harder to control how much the amplification is.  With any of those Processes or Effects or Tools, you always have to select a segment, or Select All, so SF will know what to work on.
+
+Another way to amplify very simply is to use Mp3Gain:
+
+http://mp3gain.sourceforge.net/
+
+which is especially nice since it lets you set the actual dB you want the end product to be at (people here like 89.5 dB as a target).  
+
+That's about all I know, but have no fear!  Any moment now, RuthieG (who taught me more than I have retained) will swoop in from nowhere and post some really wise advice, so hang in there!!!

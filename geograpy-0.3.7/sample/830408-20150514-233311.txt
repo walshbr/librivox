@@ -1,0 +1,9 @@
+I've found that teleprompter software works really well for me. I found a freeware version called "MirrorScript" ... http://www.freetelepromptersoftware.com/
+
+It's fairly basic but has an option not to go full screen, customizable reading window colours, text size and spacing. There are single letter keyboard controls to change speed, direction, pause etc.
+
+My only criticisms are that the scroll speed steps may not be fine enough in granularity and there seems to be no way to adjust the length of the line of text being scrolled.
+
+I've found it may help to reformat the text files to remove line breaks where there is no punctuation or insert extra blank lines. That seems to make the display more consistent.
+
+Be warned this is the only freeware one I've tried so there may be better.

@@ -1,0 +1,27 @@
+Vielen Dank für die Testaufnahme, Algy Pug.
+
+Kbps, Hz und mono ist perfekt.
+Ich höre ein elektrisches Summe im Hintergrund und die Aufnahme könnte ein winziges bisschen lauter sein. 
+Ab besten wäre es, das Summen an der Quelle abzustellen. Oft hilft es, wenn man alle Geräte, die sonst noch an den Computer angeschlossen sind, ausschaltet oder entfernt. Wenn Du mit einem Laptop aufnimmst, nimm die Batterie und nicht die Steckdose.
+Stecke Dein Mikrofon in einen direkten USB Port und nicht in eine Verlängerung.
+Wenn das alles nicht hilft oder nicht zutrifft, man kann das Summen mit dem Noisecleaning von Audacity ganz gut rausfiltern.
+
+http://upload.librivox.org/share/upload ... est_nc.mp3
+
+Diese Einstellungen habe ich verwendet:
+dB: 10
+Hz: 200
+s: 0,0
+
+Dann habe ich die Aufnahme noch ein bisschen lauter gemacht. Mit verstärken (amplify) kann man wenig ausrichten, weil die Wellenlinie bei den lauten Stellen oben und unten schon fast an den Rand stößt (=Clipping). Deshalb habe ich den Leveller angewendet.
+Degree of Leveling: Moderate
+Treshold of Noise: -50 dB
+Das macht nur die leiseren Stellen lauter, die lauten bleiben, wie sie sind.
+
+Es gibt an einigen Stellen Plosives, wenn Deine Atemluft das Mikrofon direkt trifft. Positioniere das Mikrofon ein wenig seitlich vom Mund, dann geht die Luft daran vorbei.
+
+Bitte verwende im Dateinamen keine Großbuchstaben und vor allem keine Leerzeichen.
+
+Du hast ein angenehme Stimme und ich freue mich auf die ganze Geschichte.
+
+Ich nehme an, Du möchtest auch im Katalog Algy Pug heißen?

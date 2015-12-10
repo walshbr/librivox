@@ -1,0 +1,4 @@
+A possible helpful hint for sig-people is to make it just a touch smaller than the usual forum font size (12).  This does take a little bit of forum code, which you have to type in, but happily it's pretty straightforward:
+Code:[size=11] YOUR SIG TEXT HERE [/size]
+
+I posted a while ago some help about using colours, making URL links and suchlike ... I'm not the Sig Police, though I think the size thing at least is pretty helpful to some other readers, without losing anything.

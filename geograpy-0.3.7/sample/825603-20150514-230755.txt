@@ -1,0 +1,1 @@
+My guess is that you don't have either enough memory or disk space for the very, very greedy Audacity.What version of Audacity are you using? What operating system? How much memory and hard disk space do you have available? Have you defragged your hard disk lately? Ruth

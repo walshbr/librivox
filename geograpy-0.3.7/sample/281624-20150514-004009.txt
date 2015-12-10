@@ -1,0 +1,7 @@
+By the way, David, I used Stephan's out-of-tune piano intro as part of my recording of Section 11, at the very beginning and at the end of the section.
+
+I'm assuming Stephan has released his piano recording for PD use ... sorry, if this introduces a complication.  I really think the piano bit helps the whole thing sound more professional.
+
+Give a listen to any of the chapters for Slocum's _Sailing Alone_ (an excellent recording).  Here the reader used PD seagulls to great effect.
+
+-d

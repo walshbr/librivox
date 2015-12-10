@@ -1,0 +1,5 @@
+So here's the really curious thing: I'm using Firefox both at home and at work (I think same version of both).  At home, I guess I never logged out of the wiki.  As a result, I'm always logged in, therefore I can edit stuff as needed.  Only at work do I get the weird result.
+
+I'll try again with other browsers at work and see what happens.
+
+-Catharine

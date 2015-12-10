@@ -1,0 +1,5 @@
+You need to download this file and burn it to a CD:
+
+ftp://ftp.oss.cc.gatech.edu/pub/linux/d ... urrent.iso
+
+You can't just copy the file to the CD, you have to burn it as an image. I wish I could explain it more clearly to you, but perhaps this can help.

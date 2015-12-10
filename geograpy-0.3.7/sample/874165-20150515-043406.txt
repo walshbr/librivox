@@ -1,0 +1,3 @@
+PullMeUnder wrote:No file sizes given with the links. Being on broadband, this isn't of too much importance to me, but last time I checked, there still where loads of modem users out there. Obviously, they'd rather chose the smallest file, and it doesn't become apparent which one that is (okay, 64 is smaller than 128, but what about the ogg file?)...
+
+Thanks for noting these issues... we'll be updating the catalog pages with file size info and additional information over the next couple of weeks. Thanks for your patience. =)

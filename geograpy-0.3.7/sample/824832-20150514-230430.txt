@@ -1,0 +1,1 @@
+I know nothing about Pro Tools, sorry, but as a workaround in the meantime, if you're using Windows at least, you can add ID3 tags to a file after it's created: close the file, go to the folder it's in, right-click on its name or icon, and select 'Properties', then choose the 'Details' tab and you can enter the correct tags in the fields in the kind of table you see there.

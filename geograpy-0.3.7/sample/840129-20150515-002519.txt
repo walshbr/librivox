@@ -1,0 +1,3 @@
+I'm guessing it's your microphone.  I record on a laptop with no problems.  See if you can pick up a cheap USB microphone -- there are a few good ones out there that only cost about $30, and you might even find one for less.
+
+USB mics bypass your soundcard, so you get a relatively good sound no matter how crappy your soundcard might be :)

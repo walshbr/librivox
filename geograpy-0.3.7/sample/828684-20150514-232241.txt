@@ -1,0 +1,4 @@
+Do give Audacity another try: after you've walked your way through it once, it's really not hard. It's fast and superbly effective. I've tried the commercial ones (like SoundSoap and the noise cleaning function in Adobe's SoundBooth), and, as far as I can see, nothing comes close to the free Audacity.
+
+I assume you know about the instructions on this page:
+http://wiki.librivox.org/index.php/Noise_Cleaning

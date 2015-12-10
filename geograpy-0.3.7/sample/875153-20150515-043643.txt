@@ -1,0 +1,20 @@
+lisabeeren wrote: I've just downloaded The wisdom of father brown by gk chesterton.(both the mp3, and the ogg [just chapter 1]) .... On my computer bothfiles have clicks and pops through them, like the were encoded withnot a very good encoder.I have quite a number of mp3 and oggs on my computer, and they playfine with no clicks or pops.
+Greetings and welcome LibriVox,
+
+I have listened to half of the Father Brown recordings (64 Kbps files).  
+After seeing your message, I listened again carefully to parts of
+Chapter 1.  I hear no (obvious) pops or clicks.  I'm thinking of the
+sorts of artifacts one heard in MP3 files due to problems in
+extracting (ripping) tracks from music CDs.  What I do hear in these
+recordings is some background hiss, and they sound a bit raspy, too;
+I associate this with the recording set-up, not the encoding step.
+
+So, I wonder if what you hear could be due to defects introduced by a
+problem in downloading the files.  Have you tried getting one of the
+files another time?  Or checked another chapter of the series?
+
+-----
+
+I have a lot of experience with encoding audio into MP3, and I've never
+heard of encoding causing clicks and pops.  It's extracting which does that,
+especially when the ripper software isn't very good.

@@ -1,0 +1,1 @@
+I've fixed it for you - you were probably confused by the message "Mans [with weird replacement characters] isn't recognised as a forum name, please go back and check" - all this means is that the name needs to be entered into the database (at the bottom of the reader list admin) first. After I did that, it all went ok. 

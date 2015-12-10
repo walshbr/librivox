@@ -1,0 +1,7 @@
+Robert Scott wrote:fount ....If you are working with the texts and using texts to select Audio ... then a "word count" will give you a good idea as to the length of the audio Rough range is 120 to 160 words per min So a 6000 word text would give you audio ranging from 37 to 50 min based on reader speaking speed
+
+Agreed.  However, is there a way to search or browse this site by word count?  I've looked, but not found one.
+
+For books already on the LibriVox site, "Total running time" is stated, which is great, and eliminates the need to estimate it based on word count.  
+
+Unfortunately, I can't find a way to display all of the books on this site, ranked by run time or word count, or to filter the list to find all with a run time over, say, 5 hours.  Is there a way to do that which I'm missing?

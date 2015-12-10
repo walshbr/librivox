@@ -1,0 +1,12 @@
+opheliad wrote:Ha - I did it!Round about way of doing things, but noticed that my Audio Hijack Pro has an option to export to WAV using iTunes. Not ideal, but here it is anyway - big file, I'm afraid, for such a tiny bit of talking, is over 54MB normal for wav??:http://www.gigasize.com/get.php/63825/M ... iltern.wav
+Hey, congratulations on another technical victory!
+What I say next should not diminish your satisfaction at figuring out another bit of software. Bask.
+
+The only time a wav is preferable to an mp3 is if your editing software has directly output to the wav, because it's basically as high a quality as we can get.
+
+If your editor had to output to mp3, the audio was compressed and some quality got lost that we don't even hear (unless you resave and resave the same file to mp3, then we do hear the loss, like a photocopy of a photocopy of a photocopy... you can tell it's not the original).
+
+So if your editor won't produce a wav, then we'll just use the mp3 that it produced. If you're really curious someday why I even bothered to ask for a wav at all, I'll happily explain. But I think that's enough for today's miniseries on Fumbling with Audio Files.
+
+
+thankyou repeatedly opheliad !

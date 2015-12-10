@@ -1,0 +1,3 @@
+As admin, you have sftp access to the files, and can move them if you wish. Not absolutely necessary, unless Laura doesn't want them in her directory. It's up to you and Laura, there's no technical reason to move them.
+
+Or you can ask someone who is familiar with sftp to do it for you. Moving them will mean you'll have to edit the links in the MW to point to your directory instead of Laura's, BTW.

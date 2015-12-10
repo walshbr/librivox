@@ -1,0 +1,9 @@
+here is a small tip to those with a 56k dial up connection who don't want to wait to listen to their audiobook files. 
+
+Using a program like quicktime for example, you can stream a chapter and listen to it while you are downloading it.  For the 64bit files that we offer, I would guess that a 56k dial up modem connection is just fast enough to stream our librivox files. 
+
+I figure that a dial up modem runs at a max speed of 8 kilobytes per second 8x8 is 64 bits per second, hence a bitrate of exactly 64. 
+
+ I am prety sure that quicktime requires you to pay in order to keep the file on your hard drive after it is downloaded, but I am sure that there are freeware alternatives that will allow you to stream and save files. 
+
+This solution isn't perfet, but its better than waiting 30 minutes for a file to download completly before you listen.

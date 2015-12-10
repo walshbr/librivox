@@ -1,0 +1,1 @@
+If it's possible to get the catalog page created before midnight in the server's time zone, we'll do it. Get some rest, Carl, you deserve it.

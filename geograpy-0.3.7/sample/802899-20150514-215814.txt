@@ -1,0 +1,17 @@
+I created the portal pages.
+http://librivox.org/list-translated-pages-german/ (wordpress ID 643)
+http://librivox.org/list-translated-pages-spanish/ (wordpress ID 644)
+http://librivox.org/list-translated-pages-dutch/  (wordpress ID 645)
+http://librivox.org/list-translated-pages-french/ (wordpress ID 646)
+http://librivox.org/list-translated-pages-italian/ (wordpress ID 647)
+http://librivox.org/list-translated-pages-finnish/ (wordpress ID 648)
+http://librivox.org/list-translated-pag ... ortuguese/ (wordpress ID 649)
+
+
+IMPORTANT! DEAR TRANSLATORS
+
+As you can see there is un-translated content on the portal pages.I need you please, to all translate this: 
+
+Quote:Pages translated into Portuguese/French/Spanish/Finnish/Dutch/Italian/... We are on the way to translate important parts of our website to several languages. Please understand that this is work-intensive and difficult to keep the translated pages as current as the original version. Moreover, it is unavoidable that links from the translated websites mostly point to english pages.
+
+No need to go Wiki on this.

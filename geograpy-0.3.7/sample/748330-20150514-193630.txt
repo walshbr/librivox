@@ -1,0 +1,6 @@
+Jo,
+
+
+Thanks for the read through and clean up -- your version is better.  I kinda realized too late that I was talking a wee bit too close into the mic, and I did my clean-up with the old 1.2.6 Audacity, which wasn't nearly as good.  Also, all those old acting classes that teach you to clip your diction on T's, D's, and P's and roll your S's ends up making a nasty spike during recording, so I'm going to have to keep my eye on blunting that just a hair in the future.
+
+Feel free to catalogue it.  Might revisit this one in the future, if I ever get a good enough handle on noise removal.

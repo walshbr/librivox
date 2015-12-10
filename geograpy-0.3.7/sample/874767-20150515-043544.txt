@@ -1,0 +1,3 @@
+The zips are automatically produced by our host, archive.org.  64 is what we get :)  
+
+There's no "single file" as such. The zips contain all the individual chapters, so I'm pretty sure we want to keep the disclaimer in all files in case the files are shared later.

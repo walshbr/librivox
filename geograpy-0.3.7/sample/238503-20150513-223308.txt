@@ -1,0 +1,1 @@
+Hi,My contribution :http://librivox.org/uploads/dii/rainyday_longfellow_rc2_128kb.mp3Recording Specifications :File Size - 1.5 MiBEncoding Type - MPEG-1 Layer III (encoded with LAME3.98r)MP3 Format - 128 kbps 44,100 Hz MonoTrack Length - 1:40.00 (m:ss.ss)Volume - 90.9 dBDC Bias - +0 (+0.0003%)Clipped Audio - 0 ms (0.00%)

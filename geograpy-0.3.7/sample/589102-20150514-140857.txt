@@ -1,0 +1,19 @@
+Hi johnell! 
+
+*BEWARE - LOOOONG POST*
+
+ Welcome to Ramona! Excellent, having you here. I'm extremely delighted! 
+ First of all, we're VERY brave - you're on the MW with your claims for the three chapters!  I'm sure you'll do a great job of it. 
+ Editing, johnell, is a very simple process, nothing to worry about. Have you checked out the Guide for Listeners & Volunteers (the Librivox wiki)? THAT link is the most comprehensive guide - both for recording as well as editing. You could also refer to the Recording Notes. For notes on noise-cleaning, check out this wiki page. They're all very informative, quite detailed and all, but still, if you've got any questions to ask, please do not hesitate to post in this forum or PM me. 
+
+To connect to the same track once you've stopped, press Shift + the record button (the red circled one). That should help you continue on the same track and not start off on a new track. That's how it is in Audacity 1.3.3. I'm not sure if it would work as we want it to in 1.2.6. 
+
+Audacity 1.3.3 and 1.2.6 aren't much different in functionality and stuff. The only good difference between them is in the noise-cleaning capabilities. The latest version is much better when it comes to noise-cleaning. They say it's unstable, but it's been pretty much stable, as far as I know. So, if it's only the manual of Audacity 1.3.3 you can't download, but you can download the software itself, then there shouldn't be a problem, because they're all pretty much the same, and 1.2.6's manual should apply to 1.3.3 too (barring some minor exceptions).
+
+johnell, everyone's started off as a newbie here  Do not worry at all, you'll be PERFECT, trust me. The first time will be scary, yes, but you'll learn, and then it's going to be terribly easy. All the very best!  Have fun - that's the first and most important thing!
+
+If you've got any other questions, please don't hesitate to ask.
+
+As for your questions on Spanish pronunciations, I'll leave them to Stav to answer those.  She'll know better! 
+
+Good luck with your recording, johnell! 

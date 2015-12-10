@@ -1,0 +1,13 @@
+People don't have to buy the book  in order to use a cover. Think about all the Twain fans out there who get a LV recording for their birthday with a nice cover!
+
+Here are the proofing notes for Ch 11:
+
+@:19 “There are three infallible ways of pleasing an author” said “invaluable”
+
+@1:31 –1:36 silence and missing Quote:“Young Driscoll appeared, and joined the party. He pretended to be seeing the distinguished strangers for the first time when they rose to shake hands; but this was only a blind, as he had already had a glimpse of them, at the reception, while robbing the house. The twins made mental note that he was smooth-faced and rather handsome, and smooth and undulatory in his movements—graceful, in fact. Angelo thought he had a good eye; Luigi thought there was something veiled and sly about it. Angelo thought he had a pleasant free-and-easy way of talking; Luigi thought it was more so than was agreeable. Angelo thought he was a sufficiently nice young man; Luigi reserved his decision. Tom's first contribution to the conversation was a question which he had put to Wilson a hundred times before.”
+
+This chapter was much louder then the others and you got some "clipping". That's when the wav form flattens out at the tops and bottoms thus creating a bit of distortion. I could hear it a bit so I went to check it in audacity. It's not too bad but you may want to tone it down in the future. I still haven't listened to the others but will check them too. An example of clipping can be found at 11:14.
+
+Also the title tag is misspelled : 11 Chapter 11 Pudd'head's Thri;;ing Discovery  I wouldn't mention this if  you didn't have to upload a new version. 
+
+Esther  

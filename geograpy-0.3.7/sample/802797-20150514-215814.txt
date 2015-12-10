@@ -1,0 +1,5 @@
+Somebody stop AnnaMaria!  
+I wanted to set a frame of text to be translated into all major languages.
+Of course we can translate a LOT more stuff we have around here, but for now lets all do the same texts. In a second run we can internationalise even more...just thinking of all the Wiki texts.
+
+Hey, AnnaMaria, thank you for your enthusiams! If you're through with the paragraphs in the translation page, i think thats it for now.

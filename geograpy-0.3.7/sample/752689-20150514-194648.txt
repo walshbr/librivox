@@ -1,0 +1,11 @@
+Explained in other thread.  This is totally my fault, and I'm really sorry!
+
+Explanation:
+
+Got ahead of myself and uploaded to archive.org without double-checking title tags in the Validator, so I'm betting that's where the problem originated.  I changed the title tags in the Archive.org page, but it didn't occur to me that it would only fix the 128k mp3s, not the derived files.  And of course I changed the title tags in the Validator so that the catalog page would look nice.
+
+ 
+
+I owe you several.  Do you need help in making new catalog pages for projects that got lost in the server hiccup?
+
+-Catharine

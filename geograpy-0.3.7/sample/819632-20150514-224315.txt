@@ -1,0 +1,1 @@
+I have downloaded the LAME encoder, but whenever I try to export a file to mp3, it fails with no explanation. I am using Audio Converter on Audacity version 2.02.  Am I overlooking a step in the process, or what?

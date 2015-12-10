@@ -1,0 +1,3 @@
+These books are PL-OK!
+
+The only thing is that there's 20 seconds of silence at the end of the file.  For recordings longer than 10 seconds, you only need 10.  No biggie though.

@@ -1,0 +1,9 @@
+Proposal: why not use the wiki to translate sections of the librivox site to other languages? 
+
+the problem with trying to be multi-lingual (as with so many wish-list projects): it takes lots of time to just run things in english. harder in french, spanish, german, persian too. 
+
+So: PLEASE anyone wishing to write some copy in another loanguage, please do on the wiki:
+
+http://librivox.org/wiki
+
+that would be fantastic.

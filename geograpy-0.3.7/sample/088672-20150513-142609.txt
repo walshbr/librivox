@@ -1,0 +1,1 @@
+Hi and welcome to librivoxThe reading is great and the volume is spot on at 89dB but the following edits are needed please before you are ready to record. The bit rate should be 128 kbps.  The sampling rate should be 44.1 kHz (44,100 Hz).   The recording should be in mono sound, not stereo sound.  If you could edit and reupload using the same file name that would be great thanks

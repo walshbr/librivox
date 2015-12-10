@@ -1,0 +1,1 @@
+When I do word count on a project, I have to copy the text and paste it into a word document and the use word count. Does anyone know another, quicker way of doing it? Can you do it in browser in some way?

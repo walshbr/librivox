@@ -1,0 +1,9 @@
+Catalog: two errors with last names
+
+This entry incorrectly alphabetizes under "C", rather than "D":
+Charles Dickens. "Christmas Carol, A-2"
+http://librivox.org/a-christmas-carol-b ... dickens-2/
+
+Doyle is his last name, so he should alphabetize under "D":
+Conan Doyle, Sir Arthur. "Parasite, The"
+http://librivox.org/the-parasite-by-sir ... nan-doyle/

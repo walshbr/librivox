@@ -1,0 +1,18 @@
+i have edited this post following Brad's research; please re-read :)
+
+Hey all, 
+
+We've recently discovered that recording with the correct "sample rate" is very important.  The standard is 44100Hz, though lower rates work, as long as they're not too low.  Recordings made at a higher sample rate might not play in all mp3 players.
+
+Chris (tis) has just added a sample rate checker to our validator, which will warn us when we get files recorded at a non-standard rate.  But we have to fix them manually, which degrades quality, so it's REALLY IMPORTANT to try to get all readers to make sure that they're recording between 44100hz and 22050hz.
+
+Please, everyone, check your recording software and make sure the sample rate is set to between 44100Hz and 22050hz.  Doesn't matter if you don't know what the numbers mean (I don't) but please check.
+
+Now, this is pretty embarrassing but I can't find a FAQ where technical details like bitrate and sample-rate are mentioned. Surely we have one somewhere?  Someone point it out to me?
+
+And when the wiki is made, let's make sure we say:
+
+Bitrate MUST be 128kbpsSample rate MUST be between 44100Hz and 22050HzBit Depth 16
+
+Thanks!
+Kara

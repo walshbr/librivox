@@ -1,0 +1,1 @@
+0 PL OK.18:12-8:13 delete repeated words,  "took.."

@@ -1,0 +1,1 @@
+When you ask for the ID3 title to say ## - [Section Title] does that mean you're asking for a "53 - Chapter 53"? it seems a bit redundant

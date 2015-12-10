@@ -1,0 +1,19 @@
+Well, I have found it. 
+
+The link isn't clickable because it has spaces in the file name, but it is this:
+
+http://upload.librivox.org/share/uploads/xx/english_a method of a cloak_stein_cc.zip
+
+EDIT: I have changed the file name to
+
+http://upload.librivox.org/share/upload ... ein_cc.zip
+
+I downloaded it, and it consists of:
+
+A Mac OSX folder
+A Mac OSX file of some description
+and a file called english_a method of a cloak_stein_cc.mov
+
+That's as far as I can go as I'm not a Mac user. However, I can say that it isn't an MP3 file. 
+
+Ruth

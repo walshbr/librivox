@@ -1,0 +1,12 @@
+Hello Joe,
+Well - that's something to think about, but I would be in favour of just keeping it the way it is now.
+Reason: the numbers of the sections in the MW are only temporary numbers; they won't be visible or used on either the LV catalog page or on the archive.org page. So after cataloging, they in fact are not seen anymore - after cataloging, the listener only notices the number in the mp3 filename and in the ID3 title tag. And that means it only looks strange to you and me and the DPL, until it is catalogued.
+[Oh, I just remember that it IS seen in the player that is embedded in the archive.org page - but those numbers will not be correct anyway, because they always start with 1, even if there is an introduction 00...]
+
+The lectures are clearly numbered in the text that you are reading from. So it makes more sense to have Lecture 11 recorded under the filename "regiliousexperience_11_james". 
+
+That's what I do for regular books with chapter numbers as well, if I split up a chapter. Usually, I would then do something like "religiousexperience_10a_james" and "religiousexperience_10b_james", but "religiousexperience_10_james-part1" works just as well. 
+
+Hope I've made it clear in my rambling... In brief: I would suggest not changing the names. However, it's your solo project, so if you still prefer to rename the files, let me know and it will be easy for me to do that.
+
+Anna

@@ -1,0 +1,11 @@
+Perhaps a good solution would be to only allow the book leader to actually use the database-sign-up page. That way, when someone volunteers, the book leader would enter their details into the sign up form.
+
+Then we can have a 'what chapters are looking for readers?' web page, as jonvw suggests, which would also provide what jeanosullivan was looking for (see the 'Orphaned Chapters' thread). The list of chapters looking for readers could link back into the relevant forum thread.
+
+So here's the use case:
+
+Volunteer looks at 'chapters needing readers' page
+Volunteer selects a chapter (or book) that they would like to read
+The link takes them to the forum
+Volunteer signs up in the forum
+Team leader sees that they have volunteered and enters the details into the database via a 'book leader' page

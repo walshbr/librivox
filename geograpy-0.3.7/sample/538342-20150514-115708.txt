@@ -1,0 +1,11 @@
+Only problem is that the file is in Stereo not Mono
+
+I don't use Garageband but I knew I had seen how to make it Mono somewhere so hunted it down
+
+Quote:When you go to export your recording, select share, and then the options menu pops up. For audio settings, select "Custom", and another window will pop-up - that's where you select mono.
+
+hope this works for you
+
+Otherwise the file was fine
+
+Anne

@@ -1,0 +1,3 @@
+hugh wrote:5. colours etc.-ok, i'm loathe to bring this up after all the work and discussion ... it looks great, but the background shade, especially in the "listen" section, is still pretty obvious on my machinesWorked around for the headings. I didn't adjust the corners of the two buttons, but may have a stab at that later today.tis wrote:I wonder if the right hand padding in the listen and news box needs to be a little bigger? To my eye the text gets too close to the edge of the box (Win-Opera).
+
+Feel free to adjust it if you like. I don't have a Windows box to test on, so...

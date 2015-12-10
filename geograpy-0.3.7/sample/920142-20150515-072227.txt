@@ -1,0 +1,3 @@
+ok.. I don't want to rain on anyone's parades here, but... while it is great software, the user still has to DO the exercises for it to work... it's not magic as is being implied above.
+
+.... and it does have a "nag" feature (that can be turned off) that people like myself, who hate exercise of any nature, might find annoying... however, it "nags" based on data the software has collected about the user's work patterns (i.e. keystrokes, mouse action) instead of simply the amount of time that has passed. The assessment portion allows the software to be tailored to the specific physical needs of the user and is well designed and easy to use.

@@ -1,0 +1,1 @@
+Hey Matt,Your file is a .wav file and we require MP3s.  For instructions on exporting to an MP3 in Audacity, please go here: http://wiki.librivox.org/index.php/Audacity_1-2-3#ConfigureTry making this adjustment, then post another test. Use the same file name as your previous one, and post in this same thread when it's ready. MaryAnn

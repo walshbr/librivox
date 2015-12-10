@@ -1,0 +1,1 @@
+I don't want to step on Ruth's toes here...  Just make sure you plug in (and turn on if there is anything to turn on in it) the mic before you start Audacity.  I've read in some early posts that it was important.  The software may not be written to recognize new interfaces as they become available when you plug in the respective hardware.

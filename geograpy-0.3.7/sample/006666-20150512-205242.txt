@@ -1,0 +1,1 @@
+I thought I had downloaded the correct LAME file but got an error message showing the file was not the correct form LAME_xxx.dll. Where do I go to get the correct encoder?Thanks for any help. 

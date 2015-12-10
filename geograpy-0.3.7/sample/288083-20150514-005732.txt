@@ -1,0 +1,1 @@
+Happy 2013! Thank you, Geoff, section 1 matches the others, now. You can check the overall dBs with a free tool called MP3Gain (at least when you use the windows version) but don't use it to adjust the volume. You can get it from sourceforge: http://mp3gain.sourceforge.net/ Greetings, KajoP.S. Just see, there are new section to PL and I hope I can PL them soon.

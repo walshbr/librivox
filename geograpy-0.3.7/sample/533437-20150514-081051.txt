@@ -1,0 +1,9 @@
+lezer wrote:Hi Denny,Here's an answer that was posted:Quote:When you go to export your recording, select share, and then the options menu pops up. For audio settings, select "Custom", and another window will pop-up - that's where you select mono.Could you try that?AnnaPS for the one that is already exported now I'll be happy to convert that for you; let me know.
+
+Thanks for the quick turnaround. I followed your tip and it works.  Here's the link for the fixed, mono version (original file was renamed).
+
+http://upload.librivox.org/share/upload ... _defoe.mp3
+
+Still, all this has made me want to learn Audacity, since most LVers are familiar with that program. Plus, it's multi-platform, so when friends with PCs want to start recording, I can give them a hand. 
+
+-denny

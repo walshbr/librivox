@@ -1,0 +1,1 @@
+Okay, chapter 1 is almost there! Only two minor things to fix - the Album ID3 tag is missing and there's more than 5 seconds of silence at the end of the recording. Then it will be good to go ^^

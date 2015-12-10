@@ -1,0 +1,3 @@
+One problem I've found with using either the ascii or HTLM e-book from the gutenburg website is that they lack accent marks for Spanish names.
+
+Also, the book includes English-, Spanish-, Italian-, and French-speaking characters.  Should I pronounce "Martin Decoud" in French, English or Spanish?

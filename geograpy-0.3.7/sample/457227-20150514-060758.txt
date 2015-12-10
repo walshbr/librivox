@@ -1,0 +1,1 @@
+Merci mille fois  Je me demande du coup combien du as pris de douches ces jours-ci J'ai trouvé un truc pour les accents dans les titres: si tu remplaces les caracteres dans la fenetre magique par &eacute; et equivalent, ils apparaissent normalement dans la boite magique et dans le validateur. Bon a savoir!

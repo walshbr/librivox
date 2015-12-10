@@ -1,0 +1,1 @@
+Thank you!Next time, just use the same file name. The uploader renames the old file, so that the link in the Magic Window won't have to be changed on multiple file versions. 

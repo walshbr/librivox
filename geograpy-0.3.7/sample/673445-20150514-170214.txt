@@ -1,0 +1,11 @@
+Starlite wrote:I downloaded your file and found it absent of all ID tags.
+
+Thanks for checking.  I've opened a help thread here with said screenshots.
+
+It really seems as though my tags are extremely shy around strangers, to the point of paranoia.  Either that, or multiple programs on my computer - audio recorder/editor, ID3 tag editor, file manager (which pops up tag info in tooltips) - have all conspired to pretend they see information that isn't there.
+
+Sorry, this should be discussed in the help thread, not here.  I just needed to grumble a bit more.
+
+
+Edit:  I made a change and re-uploaded the file (overwriting the original, so the above link is still good).  I'm still waiting in the help thread for confirmation that it's fixed, but I'm very confident of it.
+Second edit:  It's fixed.  It was ready for PL anyway, since I wasn't changing the audio; but now it's really ready.

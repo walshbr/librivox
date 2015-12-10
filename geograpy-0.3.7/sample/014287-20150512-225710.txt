@@ -1,0 +1,1 @@
+Welcome to LibriVox zylice   Good test recording, all the specs are correct, however, your volume is a bit low, the waveforms should be into the .5 range.The waveforms should look like this...Other than that, you're good to go (record something interesting).  

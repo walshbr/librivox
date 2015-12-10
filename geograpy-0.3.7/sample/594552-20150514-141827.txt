@@ -1,0 +1,15 @@
+Hi Jud,
+
+I did notice one thing Jodi did not (but more my job to check on this anyway), your ID3 tags for the file need to be changed.  
+
+Yours are currently this:
+Artist: P/T. Barnum
+Title: Chapter 11
+Album: Humbugs of the World
+
+The tags should be set up like this:
+Artist: P. T. Barnum
+Title: 11 - Chapter 11
+Album: The Humbugs of the World
+
+Just re-upload the same as before when you have made the changes and the other file will get overwritten (well, actually it gets backed up with a slightly different name).   

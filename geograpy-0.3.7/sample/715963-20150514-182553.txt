@@ -1,0 +1,3 @@
+The catalogue page doesn't show who wrote the summary.  Can that be added? (We always show this, to be certain we're not using copyrighted text).
+
+Thanks!

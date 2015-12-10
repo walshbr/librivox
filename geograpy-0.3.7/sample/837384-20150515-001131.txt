@@ -1,0 +1,9 @@
+My advice is that it's much better to read to the end, then go back and edit out the flubs.  You get a more consistent and natural sound that way. 
+
+When you find you've mis-read something, pause, then start again from the beginning of the phrase or sentence, trying to keep the same tone etc.
+
+Then when you go back to edit the recording, the mistakes are easily edited out, because you're taking out a whole phrase.
+
+But, to answer your question.... If you do stop and re-start recording, you may need to make the Audacity window bigger.  When you re-start recording, it adds a new audio track below the first one; if your window is too small (top-to-bottom), you can't see the new track.
+
+David

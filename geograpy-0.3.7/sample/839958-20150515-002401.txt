@@ -1,0 +1,3 @@
+All of whatevery one else has said is true; However if you are using the new beta of audacity (1.3.3) then you will need to remember to edit the ID3 tags before you export it as an MP3, audacity WILL NOT prompt you to do so as it has in earlier editions. You do this by - before you export - selecting "Edit Metadata" from the "File" menu and filling in the tags there.
+
+I hope one of us has helped!

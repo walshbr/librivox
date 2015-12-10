@@ -1,0 +1,10 @@
+Hello, Janet, and welcome to LibriVox!
+
+I fixed your link by adding a "%20" in the space of the file name:  http://upload.librivox.org/share/upload ... 0Janet.mp3
+
+The mp3 settings are OK (mono, 128 kbps bitrate).  It's bit quiet, but that is easily resolved by normalizing.  If there's an excess amount of noise after the normalize boost, you can try noise reduction.  If the vocal dynamics of your reading are too drastic for your taste (loud syllables and soft syllables), you might want to add some compression.
+
+By the way, I like your performance, too!
+
+Cheers,
+Ryan

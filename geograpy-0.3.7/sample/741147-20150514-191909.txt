@@ -1,0 +1,7 @@
+Quick question about split chapters - should the full LibriVox preamble be put onto each part?  As in:
+
+"Chapter 37, part one of Etiquette. This is a LibriVox recording. All LibriVox recordings are in the public domain. For more information, or to volunteer, please visit: librivox DOT org
+
+"Chapter 37 - Traveling at Home and Abroad, part one."
+
+And likewise for part two?  Just to be sure....

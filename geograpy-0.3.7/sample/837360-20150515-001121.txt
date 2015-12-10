@@ -1,0 +1,17 @@
+Hi--
+
+I think I would like to record Abigail Adams' "Remember the Ladies" letter as my first project.  However, it's not just the one letter that's important, but rather the exchange with John Adams.
+
+How does one proceed with this?  I presume it's all one recording.
+
+Would I do something like:
+1)  List both Abigail and John as the author
+2)  Read
+     ABIGAIL ADAMS TO JOHN ADAMS Braintree, March 31, 1776
+     <letter text>
+     JOHN ADAMS TO ABIGAIL ADAMS April 14, 1776
+     <letter text>
+     ABIGAIL ADAMS TO JOHN ADAMS Braintree, May 7, 1776
+     <letter text>
+
+Or do these need to be split into separate recordings?

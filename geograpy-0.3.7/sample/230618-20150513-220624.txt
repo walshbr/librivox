@@ -1,0 +1,1 @@
+(I changed the upload instructions in the first post to the new uploader. There is no need to change the links on files already uploaded. When we get off the dev server, the link and image address will need to be changed again.)

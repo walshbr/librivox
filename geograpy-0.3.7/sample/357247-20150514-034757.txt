@@ -1,0 +1,1 @@
+Section 12 is PL OK, but it has 10 seconds of silence at the end and should only have 5.(we add 5 sec if the file is <30 min, 10 sec if >30 min) 

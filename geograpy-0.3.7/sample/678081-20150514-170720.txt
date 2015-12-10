@@ -1,0 +1,5 @@
+I know, that is very weird about the uploader.  I wonder if there is some sort of gateway on your server at work that held onto the files for a while before sending them.
+
+At least you're able to get smaller files through OK.  If you end up with a larger one in future, you can either split it into two final files (new intros/endings etc), or just send it along in pieces and I'll glue them together here.  (Which could give an interesting result if it's more than two pieces and I get them mixed up. )
+
+Odd, too, that minimal noise cleaning is producing an artifact that I can hear.  Are you using the noise cleaning function on the original Audacity?  That could be it -- the beta version has better noise cleaning.  In any case, it isn't a big deal and doesn't distract from your fine voice; just something I noticed.

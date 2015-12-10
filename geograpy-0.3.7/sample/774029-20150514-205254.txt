@@ -1,0 +1,19 @@
+That was fun!
+
+Let me know if these are alright and I'll know its safe to try other projects on this site.
+
+I did have one issue with the ID tags:  You indicated the mp3 file should be named with one nomenclature while the title in the ID tag should be something else.  When I change the file name, the title in the ID tag changes to match.  When I change the title in the ID tag, the file name changes to reflect this.  I'm using Itunes to set up the tags.
+
+I hope this isn't a major issue.
+
+Anyway, I left it as the ID tag title indicated.
+
+http://www.kurtcopeland.com/spoon_river_006_masters.mp3
+
+http://www.kurtcopeland.com/spoon_river_010_masters.mp3
+
+http://www.kurtcopeland.com/spoon_river_020_masters.mp3
+
+http://www.kurtcopeland.com/spoon_river_030_masters.mp3
+
+ 8)

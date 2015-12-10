@@ -1,0 +1,13 @@
+One question about the intro and closing of these chapters:
+
+Instead of saying at the beginning of a chapter. "Chapter 7 of the Whole Family. . . . . . . recording by . . . . 
+    * Say:
+      "The Whole Family, by Author. [Chapter]" 
+
+wouldn't it make more sense to say something like
+
+The Whole Family, Chapter 7, by Henry James (rather than The Whole Family, by Henry James, Chapter 7.) 
+
+But I'll do whatever fits. 
+
+Nick

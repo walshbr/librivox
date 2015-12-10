@@ -1,0 +1,6 @@
+Had a bit of time yesterday as internet wasn't working well. Here's section 07:
+http://librivox.gesine.org/upload/levia ... hobbes.mp3
+
+About 4 or 5 words are not quite right, or missing, but I don't think it changes the meaning too much. I tried to fix, but the patches sounded awful. However, if you want me to re-do, I will.
+
+d.e., do you want to use my server to store the files? If so, I've created this directory: http://librivox.gesine.org/upload/leviathan for them. If people uploaded to my Uploader, I could move the files there and link them in the reader list; that way everyone could download them and you'd see they're there. Also useful for proof-listening etc.

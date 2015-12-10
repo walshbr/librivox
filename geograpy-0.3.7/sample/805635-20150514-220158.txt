@@ -1,0 +1,12 @@
+Hi Anne,
+
+If you just want a simple way to extract cover images, download and unzip the free Nero AAC Codec.  The zip contains three small command-line-only programs - they will work on Windows 2000.  neroAacTag.exe is the one that can extract front covers from files.
+
+http://www.nero.com/eng/downloads-nerod ... -codec.php
+
+Just type "neroAacTag -help" for the exact syntax (slightly annoying is that you first have to change the filename extension from m4b to mp4 - at least you do in the linux version so I assume the windows version is the same).
+
+If you can't get it to work, I can always download the files and extract the covers, just send me a PM.
+
+regards
+Phil

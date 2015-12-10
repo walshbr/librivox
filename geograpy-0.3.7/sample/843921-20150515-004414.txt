@@ -1,0 +1,9 @@
+in theory this idea should work. It occured to me because of what I was talking about in my last post.
+
+Perhaps I should conduct my own tests and give some results first? I can't resist blabering for a bit so bare with me.
+
+Using a good text to speech engine, one could in theory have it read out the text that you are going to read into your mic, in your own voice. With the right text to speech software, you could set the proper delays between paragraphs and sentences so as not to overwhelm you when you repeat the words in your own voice. You could even set the delay just right so as to give yourself enough time to consider how you would like to express the words in your own tones. 
+
+This aproach if done right, would produce a convincing recording with practically no errors in it. A blind person could do it. 
+
+comments?

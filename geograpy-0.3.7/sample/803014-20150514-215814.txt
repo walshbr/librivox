@@ -1,0 +1,9 @@
+kri wrote:GPL is an acronym for "General Public License" I believe. I would just leave the acronym as it stands, unless you can find any reference to it in the language you're doing.
+
+GPL stands for "Gnu Public License".
+
+Gnu was the first project of the software development group that made great strides in setting up what we know as "the open source movement".
+
+They are known today as the Free Software Foundation.
+
+More information at www.gnu.org. There might even be translations on that site to give you a hint.

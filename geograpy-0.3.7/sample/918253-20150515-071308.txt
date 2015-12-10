@@ -1,0 +1,5 @@
+chris.tierney wrote:Well, there is generally a setup screen where you can set the boot order and tell it to look for the CD first --- that's the preferred method.But if that doesn't work, or isn't convenient, there is usually a different key that lets you override the boot process just that one time.  So if possible, try both these techniques.  (I'd like to give you more specific information, but which keys you press totally depends on the specific computer model.)In the past, I've had issues with a laptop where the CD drive still sort of worked, but not well enough to boot from.  So this might be a situation like that.Are you able to boot from this specific CD on another computer?  And is it the latest version of Ubuntu?  If not, you might have better luck with a new CD (don't know if that would make any difference, but it's worth a shot).
+
+I only have one computer to try this one.
+
+It's (I believe) the second newest version (was the newest when I got it of course!).

@@ -1,0 +1,9 @@
+Dear Eva, don't despair. Tags for that section should be like this:
+
+Title: 14 - Soames Entertains The Future
+Author: John Galsworthy
+Book: The Forsyte Saga 2: In Chancery
+
+The 14 is your section number (first column of the Magic Box). Please make sure you have spaces before and after the hyphen (dash -) and and a space after the colon.  It's amazing, but missing out a little space really can mess the sorting... 
+
+Thanks!

@@ -1,0 +1,9 @@
+BERNINBUSH wrote:Hey, I got Luke 4-7 recorded. But when I was trying to export to mp3 format, I got a message saying I needed "/lame" to do so, and then when I clicked the link for the download I got a "Forbidden" error message. Any suggestions? (I've got Audacity 1.3.5 Beta on this computer and this is the first time I've tried to make an mp3 with it.)
+
+Here is the link for Lame:
+
+http://librivox.org/wiki/moin.cgi/Audac ... 0a6cd77a04
+
+You need to unzip it and tell audacity where to find it.
+
+Esther  

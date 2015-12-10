@@ -1,0 +1,7 @@
+Bonjour vous deux!
+
+J'ai intégré mes commentaires de PL dans la boîte magique. Comme j'avais un peu de temps libre, je me suis dit que je pourrais me rendre utile (et continuer d'apprivoiser le fonctionnement de la boîte magique) alors j'ai essayé de décaler les sections du chapitre 11 vers le bas (pour créer l'espace nécessaire à l'intégration des sections manquantes du chap. 10, voir note du 24 sept.) Sauf que visiblement, de telles actions nécessitent des droits que je n'ai pas, car cela n'a pas fonctionné! En y repensant, c'est bien logique de donner le mimimum de droits aux utilisateurs, ça évite certainement de biens grands maux de tête aux administrateurs, qui devraient autrement réparer les dégâts faits par des gens bien intentionnés, mais maladroits!
+
+Maintenant que je peux intégrer mes commentaires directement dans la boîte magique (quoique je ne sais pas si ça durera étant donné que je ne suis pas DPL...), dois-je écrire un petit mot sur le forum pour vous aviser qu'il y a du nouveau ou si c'est inutile?
+
+Au revoir!

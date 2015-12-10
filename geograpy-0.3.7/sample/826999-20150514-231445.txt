@@ -1,0 +1,3 @@
+neckertb wrote:Hi TimI have never found a program for Mac, but if you use Audacity, you can go to preferences and change the display so that it will show actual dBs. That is what I use.
+
+Thanks, Nadine. Are you using the beta version of Audacity? If so, once you go into preferences, what do you update so that the dB level shows?

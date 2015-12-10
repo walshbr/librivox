@@ -1,0 +1,7 @@
+Essentially you're saying that your computer crashed, now you're trying to fix it, right? 
+
+And now, Quicktime says 'you need another version to save' rather than 'there's not enough space to save', right? 
+
+Options: If you had a computer crash, you should run some sort of disc cleanup. Many anti-virus programs have that. Corrupted files may cause any type of troubles. If problem persists, try reinstalling Quicktime. 
+
+Maybe that helps?

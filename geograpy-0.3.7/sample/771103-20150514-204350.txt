@@ -1,0 +1,5 @@
+janbear wrote:I just send my first reading, "After Apple-Picking," by Robert Frost. I'm sorry, but I couldn't figure out how to do ID3 tags. I used Garage Band and iTunes on an Intel Mac.Here's the link http://download.yousendit.com/7D9E57646471FBDAJan BearWest Linn, Oregon, USAP.S. The poem came from Bartleby, http://www.bartleby.com/118/10.html
+
+After GarageBand sends its exported AIFF file to iTunes and iTunes is open, with the file automatically selected (and playing.) Press the space bar to stop playing it. Press OPTION-i and fix the TAGS in the window that opens up. Then close the window to do your conversion to MP3. (iTunes calles the conversion an import. Nutty, huh?)
+
+Write again if you need further help, please.)

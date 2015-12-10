@@ -1,0 +1,1 @@
+Wow, Herodotus is really large: Vol1 is 281 MB, Vol2 is 191MB, and Vol3 is 193MB. I can guess the original encoder chose a way to make the single book a reasonable size. I'm not sure about combining the three into one volume; I may re-encode to separate volumes to keep each a reasonable size.

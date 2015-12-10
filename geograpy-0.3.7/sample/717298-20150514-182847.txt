@@ -1,0 +1,5 @@
+Michelle, if you use an ftp program, you can set the files in the queue and leave it running overnight. It works wonders. When you wake in the morning, the files will all be on David's server and neatly in thier folder too.
+
+I use www.smartftp.com as it has a great turtorial on how to use it and how to set up the queue. 
+
+Esther 

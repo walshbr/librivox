@@ -1,0 +1,1 @@
+magic window updated.we are reading from an archive text, which makes it pretty much impossible to give a word count. joe added a page count instead, which is a little harder for the reader, but works quite well too, i hope 

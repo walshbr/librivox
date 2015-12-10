@@ -1,0 +1,14 @@
+List of all dates from authors and/or translators that I could find (except for K,L,M (which are for LeonMire) and except for the Various Collections):
+
+http://librivox.org/wiki/moin.cgi/Backg ... hDeathInfo
+
+List of queries for authors & translators:
+
+http://librivox.org/wiki/moin.cgi/HelpN ... fo#preview
+
+
+The LV catalog works fantastically well - it has a lot of information already. In the majority of cases, there is a direct link to the wikipedia page of the author which includes dates of birth & death. I would vote that in such cases, we don't need to add those dates extra to the catalog page.
+
+In the lists on the wiki, all cases where there is no such direct link, or where there is translator info missing, were put in italics - it's not too much - I think adding that information to the catalog summaries would be a chore that is still manageable (although I don't know how much work it is to change those summaries) - I still think it would be a nice service for the non-American audience.
+
+What do you think?

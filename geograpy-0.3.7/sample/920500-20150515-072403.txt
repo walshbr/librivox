@@ -1,0 +1,9 @@
+Sethwoodworth - follow a.r.dobbs lead here...
+
+a.r.dobbs wrote:If you have Word, just Insert > Picture > from fileone after another of your png files
+
+then when your file is complete go to  http://www.pdfonline.com/ and convert.
+
+PDFOnline will allow you to convert .png files, but I don't think it will allow you to select multiple .pngs and make them one file... so the .doc or .rtf route would be the way to go.
+
+I've dabbled in the PHP -> PDF creation, but not often enough.

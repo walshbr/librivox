@@ -1,0 +1,13 @@
+Section 5:
+13 seconds of silence at end; should be 5.
+Otherwise OK
+
+Section 6:
+ID Tag: Title should be "06 - Chapter Fourth, Part 2" (currently "04-Chapter Fourth, Part 2") 
+Otherwise OK
+
+Section 7:
+ID Tag: Title should be "07 - Chapter Fourth, Part 3" (currently "04-Chapter Chapter Fourth, Part Three") 
+Otherwise OK
+
+I'll fix the links in the MW to match the corrected links.

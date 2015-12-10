@@ -1,0 +1,1 @@
+I don't know if the Checker has been updated and I have an old version, but new LV files fail the Checker because they have _128kb at the end and the checker thinks they shouldn't. Also the Checker will fail/warn you about very short files, but it is perfectly normal for some files (usually poetry) to be very short.

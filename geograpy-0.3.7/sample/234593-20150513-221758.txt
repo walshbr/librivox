@@ -1,0 +1,1 @@
+Not sure what happened, but the Archive and Zip links weren't in the database entry. Should be fixed now.

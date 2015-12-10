@@ -1,0 +1,7 @@
+Hello Everyone!
+Well, I see this is a great project, which I would like to enjoy soon, due to the fact that I am new on ubuntu (not really on linux and open source).
+I installed Ubuntu, Which I see from previous posts that includes librivox, and I know I have it installed due to an audio message which plays itself at random times on my computer, it is a recording of "the fox and the grapes". Well, the fable is nice but I really dont want to hear it once each 5 minutes or while playing my music. Is there something I can do to solve this? any ideas? I checked processes on my machine (by the way, it's a laptop, acer amd turion 64) and nothing seems to be cause.
+
+I would appreciate some help!
+Thank you!
+Guido

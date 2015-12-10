@@ -1,0 +1,3 @@
+Alan - you are clear with your poem.
+
+John - all of them actually.  Did you use ID3 version 2 tags?  That could have been the problem if you used version 1.

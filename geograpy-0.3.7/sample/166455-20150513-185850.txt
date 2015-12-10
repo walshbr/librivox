@@ -1,0 +1,1 @@
+Try a control-click (to force it to open in a new tab). If that doesn't work, which section are you looking at? I tried 0 and 1, and they both worked for me.

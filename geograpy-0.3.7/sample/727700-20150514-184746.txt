@@ -1,0 +1,5 @@
+I'll leave it as it is (for now, at least), Euthymius. 
+
+I'm wondering how we could standardize the title's names so that people searching the catalogue always have them appearing one after the other. A bit like what we have for the Bible's books. They appear one after the other as the title begins with "Bible (version) O/NT ##", including the number of the book in the title, after the common section of the title. 
+
+Would something like "Житія Святыхъ ## на мѣсяцъ [month]" and "Zitija svjatyh ## na mesjac  [month]" work (## being the volume's number) to standardize the titles?

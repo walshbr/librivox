@@ -1,0 +1,15 @@
+fhudkins wrote:I can't recall where I read the proper filename format, but in order to get this chapter available for preview and editing, I have decided to post it while I search again. As it's my first read, I'd appreciate any suggestions on how I could improve! Thanks!Here's the link.http://www.smeghead.org/sound/librivox_01.mp3Also, even though I set my encoder for 128kbps, it appears that it encoded at 64kbps. Possibly this is a side-effect of the fact that it was converted to mono. I'll try again to see if I can fix this.Glad to join the party!Farrar
+
+Thank you for sending your recording, Farrar!  
+
+The proper filename format isn't listed anywhere in the LibriVox Wiki/FAQ, because it differs slightly with every project.  Where you saw that was on the first post of this forum.  For this project, it's problemsofphilosophy_##_russell (all in lowercase) where ## is the section number (which is not always the same as the chapter number).  So whenever you're looking for how to name the file, look on the original post.  
+
+I can't figure out either why it encoded in 64kbps, but that's no big deal.  I'm going to re-encode it in 128kbps, and although encoding upwards like that makes the sound quality a little bit worse, it won't much affect your file, since it's already good sound quality.  There's no need for you to re-send your file, though; I'll just change the file name and re-encode it before I put it in the window.  
+
+You did a great job with your recording, Farrar.  It may sound odd, but I liked the sound of your voice immediately.  It's very well suited for the subject matter.  You probably know intuitively that there's a good tone of voice for poetry, or satire, but there's also a good tone of voice for philosophy, I think, and you've got it nailed down.  You also do a good job, whether consciously or not, of varying your reading style and speed with the content and style of Russell's text (difficult ideas read more slowly, lucid examples read more quickly, that sort of thing; it's hard to express in words).  I know it's not very helpful, but I'm scratching my head here trying to think of stuff you could improve upon.  And I'm really nitpicky.
+
+So I'm going to make an extremely nitpicky comment about the ID3 tags; otherwise, I wouldn't have any suggestions on how to improve.  You have the title as "07 - Chapter VII - On Our Knowledge of General Principles" when the "Chapter VII" isn't necessary.  Other projects you join may have you put the chapter number as well as the section number, but this one doesn't.  You can always ask if you're not sure.
+
+And speaking of other projects, feel free to if you're interested!  I'd like to see you lend your voice to more philosophy projects, since that's what I'm interested in personally, but I'm sure other people would like to have a quality reader on their stuff, too.  Pick whatever suits your fancy.  
+
+                                                                             -Leon

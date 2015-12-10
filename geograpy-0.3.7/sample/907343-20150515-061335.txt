@@ -1,0 +1,21 @@
+Jc wrote:Quote:Apart from that, though, you should find it easy enough to do whatever you want to with Linux, as ductapeguy suggested. What do you want to do with your laptop?  Basic school stuff & watching online videos. I'm not a games person.
+You should be fine, as other people have been assuring you. More specifically:
+
+For the internet, I recommend Firefox. That's the default with Ubuntu, I think, but you can specifically install it with Kubuntu, if you choose that. For Kubuntu (or Ubuntu if it's not already there by default), choose the ubufox package, which will ensure that when you go to a page that needs a Flash player, it will offer to install it through the main package manager.
+
+Wait! We haven't told you about the package manager yet! That's one of the best things about almost any Linux distribution. One program (Synaptic for Ubuntu, Adept for Kubuntu, but they're basically the same thing) has a database of all the programs you could possibly want to install. You tell it which ones you want to install that you haven't already got, and which ones you've got that you want to uninstall, and it handles the entire process, from downloading to installing to (on rare occasions) telling you to restart when it's finished. And more than that: since it knows everything that's installed on your computer, it tells you when an update to any program is available, and lets you click just a few buttons to confirm that you want it to install the update. I think you can even set it to do it all automatically, without interrupting you.
+
+Anyway, to continue with my recommendations: There are several possibilities for office suites (word processors, spreadsheets, etc.), including OpenOffice, Gnome Office, and KOffice. OpenOffice is probably the most popular and most similar to Microsoft Office XP (and I think it's the default for Ubuntu), and KOffice is the default for Kubuntu, but you can choose whichever one(s) you want with the package manager. I don't do much office-suite-type-stuff these days, though, so I can't really give you a specific recommendation.
+
+And of course, you'll want an audio editor, for all your LibriVox things: Audacity should be available through the package manager. Complain to someone if it isn't. If Audacity isn't what you're already using, then whatever you are using might also be available, if you're lucky.
+
+If you like listening to music on your computer, amaroK's great. The first time you try to play an .mp3 file, it'll offer to install MP3 support through the package manager (so again, it'll be kept up-to-date automatically). That'll also simultaneously install support for other formats like .wma, I think.
+
+If you want something equivalent to (or better than) Microsoft Outlook, Kontact is the default for Kubuntu, and I think Thunderbird is the default for Ubuntu, but again, you can mix and match whichever programs you like.
+
+If you use an instant messenger service, like MSN Messenger or Yahoo! Messenger, Kopete will handle that for you on Kubuntu, and I'm sure there's something for Ubuntu, too.
+
+I hope that all helps, but as someone else has already said, there's plenty of help available on the internet, if you ever get stuck.
+
+Tim
+<><

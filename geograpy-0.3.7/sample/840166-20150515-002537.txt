@@ -1,0 +1,1 @@
+Actually, the date that shows up on the catalogue page is just part of the template the validator creates, and can be changed. And the date in the database can be set arbitrarily too (I think that just shows up on the rss feed)

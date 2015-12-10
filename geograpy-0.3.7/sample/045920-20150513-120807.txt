@@ -1,0 +1,1 @@
+Technically possible, and works fine for PDFs that have been prepared from computer documents, but this PDF is a PDF of the book scan. I just tried it with another smaller archive book scan PDF and it extracts the text, certainly, but it doesn't actually put any spaces between the words.   And the OCR text is a non-starter.Ruth

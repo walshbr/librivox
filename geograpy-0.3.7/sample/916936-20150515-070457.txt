@@ -1,0 +1,4 @@
+oneinmany wrote:Is there any use for this even, practical or impractical? i'm really curious.I'm told that precise square roots would be useful in arc lengths and also working circular equations back ward. (normally (pi)r^2=A, but if you knew what 'A' is and wanted to find the radius and consequently the diameter you would do this: r=sqrt(A/pi)  ) useful for finding the distance as the heat proof mole burrows, from two points opposite each other on the earth although this would actually be: Diameter=2(cuberoot(3piV/4) because it is a 3D figure.
+
+Precise square roots are also needed when graphing a quadratic equation of the form: Y=AX^2+BX+C which is used for trajectory.
+Please correct me if I'm wrong on any of this, I'm still learning.

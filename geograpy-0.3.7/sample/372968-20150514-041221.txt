@@ -1,0 +1,1 @@
+Help, anyone.   I seem to have done something to Audacity so that the selection tool selects in one-second increments rather than the regular fine selection.  I can't seem to find what I've done.  Any suggestions?

@@ -1,0 +1,3 @@
+Well if you have an existing server it'd shouldn't be expensive to add the streaming software.  If you're using a linux server you should be able to use either the free real streaming server or Darwin Streaming Server, which is the open source version of Quicktime Streaming Server.  If you're on a windows server than it has built in windows media solutions already available.  
+
+The bandwidth is really whatever your ISP is charging you per gig.  So it really depends on the LV webhost.

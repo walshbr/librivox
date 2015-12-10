@@ -1,0 +1,3 @@
+Shurtagal, can you change the "forum" link on the alliance page to http://librivox.org/forum/viewtopic.php ... torder=dec
+
+That always shows the latest post on top

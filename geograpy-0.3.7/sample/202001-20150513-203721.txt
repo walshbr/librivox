@@ -1,0 +1,1 @@
+Geoff,There's nothing going on behind the scenes that I can see - no one has reported problems with the uploader.As a start, suggest that you run your file through checker to see if that catches anything - maybe a setting got changed inadvertently.  http://wiki.librivox.org/index.php/CheckerMaryAnn

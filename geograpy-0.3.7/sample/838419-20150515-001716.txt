@@ -1,0 +1,13 @@
+Jc wrote:Hi all.Been trying to manage the files in my Weekly Poetry thread, and I've corrected a reader's file (corrected ID3 and edited out a click) and I'm trying to upload it via the uploader. BUT, although it tells me:File already exists: the original file has been moved here.Upload Successful. URL: http://upload.librivox.org/share/upload ... ne_erp.mp3when I click on the URL, it's still the old file (original), and the HERE link actually directs me to the file I've just uploaded.(You can here the difference: the original has a click right at the beginning, which I've edited out)There HERE links to this: http://upload.librivox.org/share/upload ... 075656.mp3EDIT: same problem with:http://upload.librivox.org/share/upload ... 081131.mp3andhttp://upload.librivox.org/share/upload ... rne_ps.mp3
+
+Jc,
+
+There were three versions of the erp file which I downloaded before Cori renamed anything.  Both the one with the correct filename 
+
+primeofyouth_tichborne_erp.mp3 and the one you have listed above http://upload.librivox.org/share/upload ... 075656.mp3
+
+are the corrected file.  An earlier upload  http://upload.librivox.org/share/upload ... 1207075223  is the original file with the click still present.  
+
+So it seems like everything is working as it should and the problem is on your end somehow.  Perhaps a cache issue as Robert has suggested.
+
+Jo

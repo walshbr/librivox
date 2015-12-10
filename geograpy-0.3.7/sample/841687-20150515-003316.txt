@@ -1,0 +1,9 @@
+It's possibly not the RAM.
+
+I've noted that immediately after I play either a selection or just let it run and hit Stop, it won't let me replay, edit, or save the project. The level meters stay stuck at whatever level it was playing last.
+
+While in this sorta' frozen state, I can still zoom in or out, resize the window, reposition the track cursor, delete a track, make a new selection, and a few other things.
+
+After a few seconds (sometimes many seconds) it's back to normal. The meters clear, and I can do stuff as usual.
+
+I've opened the Activity Monitor (MacOS X) while this is going on, and I see that there's RAM to spare, but the CPU Activity graph maxes out until I get control back. Also lots of Disk I/O going on.

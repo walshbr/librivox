@@ -1,0 +1,3 @@
+@ quasijo  -  Thank you!  You've de-chipmunkified me!  
+
+I'm afraid that if the problem is with the sample rate, it's hiding out elsewhere.  It's set at 44100 Hz under Preferences.  I'm puzzled by the sudden difficulties.  I hadn't changed any settings since the last time I'd recorded and exported a file, and I've checked all the settings under Preferences that I knew anything about - they are all fine.  Sigh.  On the bright side, the mp3 you've posted is golden.  Thanks again!

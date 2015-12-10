@@ -1,0 +1,1 @@
+Hello Roberta! Welcome here!Your tech specs are fine! Extra sound quality! It is just a little louder (at 92,5) than the target volume which is 89dB. You can measure the volume with the checker or a similar program like mp3gain and adjust if necessary, with (de)amplification or compression.I'll mark your thread OK. Just heads up on the volume, and have fun recording!  

@@ -1,0 +1,7 @@
+Well, even if you decrease the volume for that section, it'll still sound a bit distorted. 
+
+When I'm reading, I keep the corner of my eye on the waveform, and if I notice it is what I consider too high, I'll just repeat the phrase right then and there, making it a little quieter.
+
+Barring a re-record like that, you can highlight the word or phrase (depending on how much you want to de-amplify). Then do Control-Z (this will adjust your selection so that it begins and ends at the zero baseline). Then go to Effects / Amplify and do something like -1.9 or so. Experiment a bit to find how much to lower the volume of that portion.
+
+But like I said, de-amplifying it will still have the distorted sound, since you did still clip in that area.

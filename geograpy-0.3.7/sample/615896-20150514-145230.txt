@@ -1,0 +1,8 @@
+Ok, your MW is in. I've suggested a different filename system in the first post, 37americanpoems_##_authorsurname - as you only have one by each author, this seems succinct-ish. But it's not the only way. You could do 37americanpoems_##_poemtitle.mp3, or 37americanpoems_##_abbreviatedtitle/poetcombo, e.g '_ships_dunbar', '_mournnot_chaplin'. 
+The important thing is basically that the section number '##' must be the first element that changes, or players that sort alphabetically by file name will muddle your carefully-arranged chronology.
+
+I won't need the Wikipedia links to all the individual authors - I'll catalogue it similarly to a short poetry collection, where each section is linked to its source text, but there isn't a live link to every author.
+
+Sound ok?
+
+rd

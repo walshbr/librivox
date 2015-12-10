@@ -1,0 +1,2 @@
+Yes, mic does seem to be most likely culprit.
+Some mics need their own power supply. A USB mic doesn't.

@@ -1,0 +1,5 @@
+The PLing of the intros and outros is done. As you know, the ID Tags will need the numbers changed, but, since that can be done during cataloging, I marked OK in the MW, just leaving a note in the ones that need that fix.
+
+Section 37 (The Apostle's Creed in Latin) was still named 33 in the server, but I changed that, so it should be ok now.
+
+Phew.  

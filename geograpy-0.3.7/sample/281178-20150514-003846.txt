@@ -1,0 +1,1 @@
+Chiquito: Your bitrate is 320 kbps. That makes your files far bigger then needed. It should be 128 kbps!The other contribution has the same problem.Bart

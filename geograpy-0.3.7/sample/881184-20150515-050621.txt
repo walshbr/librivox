@@ -1,0 +1,22 @@
+Summary,
+
+The short story:
+
+     It is very unlikely that any file with the tag generated on Linux will have complete tags as seen on Windows File Properties and some applications.
+
+The long story:
+     ID3 tags come in two main flavors Version 1 (aka ID3V1) and Version 2 (aka ID3V2). 
+
+     The issue appears to be that version 1 of the ID3 tags have a limit on the number of characters in some fields.
+          - This is part of the ID3V1 standard.
+          - See http://en.wikipedia.org/wiki/ID3 below for further information on ID3 tags.
+          - The Linux applications (Audacity/id3lib) adhere to the standard.
+
+     If Librivox has a serious need for complete ID3 tags at the end of mp3 files (ID3V1, where Windows looks), then either:
+          - Someone on Windows will need to edit the ID3V1 tags for each mp3 file, adding the longer data for entries over 30 characters, or
+          - The projects will need to keep Title, Artist and Album tags to 30 characters or less.
+          - Maybe the Audacity/id3lib guys would help. We could ask them to implement the extended tags (60 characters).
+
+    Of course we could just live with it.
+
+     Thanks. Ric F.

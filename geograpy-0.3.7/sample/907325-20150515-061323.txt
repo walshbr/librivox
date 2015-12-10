@@ -1,0 +1,11 @@
+Hello,
+
+Thank you everybody for giving me some feedback.
+
+That's a good point about the union jack icon and i'll replace it with a EN icon promptly. No one wants to be haunted by dead Australian authors. In fact sharpening the look of the popup audio links box is next on the list. Then a Genre tab which Librivox have very recently made possible. Thank you Chris.
+
+Regarding the missing half of the 4th column. That is by way of design to let the user know visually that there are more columns (or books on the shelf) available. That was the thinking but the idea might be lost when the site is used with smaller screens. Maybe a jagged edge is needed.
+
+Thanks again.
+
+Philip

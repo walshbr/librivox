@@ -1,0 +1,1 @@
+Section 24 is PL OK except for the tags, but those can be taken care of at catalog time, so you don't need to do anything!

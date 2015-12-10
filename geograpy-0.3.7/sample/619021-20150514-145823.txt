@@ -1,0 +1,19 @@
+MARTIN GEESON wrote:Hi Illiterati -I've uploaded Section 00 (Author's preface and introduction).Link - http://upload.librivox.org/share/upload ... 0_zola.mp3File duration - 25 mins 21 secsNote for PL: The given text contains a couple of typo's - e.g. "thinly" for "thinks" in para 3 of the Notes and elsewhere some missing punctuation.  I have checked the text against the Gutenberg file of the original Italian - E de Amicis "Ricordi di Parigi", Emile Zola chapter.If you like the reading, could you please allot me Chapter 3 (Sections 9 - 13).Best wishesMartin
+
+Indeed, I insist you take the sections, you are a joy to listen! A great personal style of reading. You'll notice that I have already assigned the sections to you.
+
+Regarding the mistakes of the text in section 00 - glad you found, corrected and were not discouraged by them. All were left by myself, I'm afraid, when I corrected the scans from archive.org. 
+
+I see I have gained a worthy ally in the fight against the sloppiness of the universe, which I am very much fighting every day. 
+
+The reading of section 00 was flawless and very pleasant, as I wrote. I have couple of technical notes, however, which I hope will not discourage you.
+
+1. The files are in stereo - we prefer mono recordings for various reasons. You can easily make the switch in Audacity (if you are using that software) by choosing stereo tracks to mono. You should also choose sample format of 16 bit. That you can do from the menu next to the text "lassommoir".
+
+2. The file could use slight noise cleaning. I tested and the settings of 14 db, 230 khz and 0,0 secs produced a very nice result. Of course you have to first get noise profile from a second or so of noisy but otherwise silent part of the recording.
+
+Here's more info: http://librivox.org/wiki/moin.cgi/NoisecleanWithPics
+
+I'm here to help out if you are in doubt, and am looking forward to more reading from you. 
+
+I

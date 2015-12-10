@@ -1,0 +1,1 @@
+Yes, we've been having some problems with the id3 tags sticking in the new audacity.  Some people need to add them first, mine prompts me for them when I save.  Don't worry, it's all fixed now. 

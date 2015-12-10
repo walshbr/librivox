@@ -1,0 +1,1 @@
+FLAC is lossless. MP3's, when you open them and then re-encode them, they lose quality.

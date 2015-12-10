@@ -1,0 +1,27 @@
+This project is complete!  All audio files can be found on our catalog page:  http://librivox.org/star-born-by-andre-norton/
+From primitives on Earth to primitives on the world Astra, in one big jump!
+Since I finished Jamestown in jig time, I'm going to start another project to run alongside Tarzan.
+
+[readers]1388[/readers]
+(Admin link)
+1. Full title: Star Born
+2. Full name of author(s): Andre Norton
+3. Full name of translator (if applicable, and if available): 
+4. Link to PD text source: http://www.gutenberg.org/files/18458/18 ... 8458-h.htm
+5. Link to author on Wikipedia (if available): http://en.wikipedia.org/wiki/Andre_Norton
+6. Link to title on Wikipedia (if available): 
+7. Target completion date (an estimate which can be changed): Oct 31, 2007 
+8. Short description (can be a paragraph copied from Wikipedia. If you write this yourself, please be aware that your summary will be in the PD. Please state who wrote the description): 
+(later) 
+9. Number of sections (files) this project will have: 18 
+10. Does the project have an introduction [y/n]: n 
+11. Original publication date (if known): 1957
+12. Do you have server space to store your files?: no 
+13. If you're a new volunteer, how would you like your name (or pseudonym) credited in the catalog? Do you have a URL you would like associated with your name?: 
+14. Example of your file names:star_born_01_norton.mp3
+15. Example of your ID3 tags: 
+Artist: Andre Norton 
+Title: 01 - Shooting Star
+Album: Star Born
+
+According to the publishing history, this is book #2 in the Pax/Astra series, of which The Stars Are Ours! is the first - unfortunately, not in Gutenberg's library (at present).  I've read the plot and the first chapter, and I don't think that listeners will miss much, as the first book covers getting to Astra, hundreds of years before the events of this book.

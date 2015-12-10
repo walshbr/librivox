@@ -1,0 +1,15 @@
+I had an Olympus Digital Voice Recorder once, although it was not that model but an older one. I didn't like it very much, because mine could only record as WMA files, which audacity doesn't really like and the best setting was 34 kbps or 64 kbps if you had stereo. The lower quality settings were partly unintelligible.
+Of course that's just my model, it could be that the VN-6800 is better (I try to find what it actually was called, I think it had a WS or something in it, I bought it three or four years ago, so it's been quite a while)
+
+I don't think that was very helpful  maybe someone comes along who knows something about that specific model.
+
+
+Edit: I found it, the model I had was a WS 200 
+(btw. I love the Zoom H2 which Starlite suggested )
+
+Edit: Looking at the technical details, it looks very similar, it also has only WMA (which as far as I remember means, when using Audacity, that you have to transform them to some other format, which would reduce quality).
+And high quality setting is also just 32 kbps. It is understandable though, it may not have the best sound but if you don't mind that than it would be okay, I guess.
+I compared my WS200 to my Webcam once, and the Webcam (Logitech I think it is) sounded more natural.
+
+
+Jessi

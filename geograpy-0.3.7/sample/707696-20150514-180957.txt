@@ -1,0 +1,4 @@
+You need to highlight the section (or the whole track) of what you want to apply the effect to.   I normally normalize my tracks to -1.5 db.   The normalize effect is a little tricky because it has a - sign built in so you just have to put 1.5 in the box.
+
+
+Whether you normalize or amplify it's best to start with the loudest recording volume you can because when you amplify your recording, you're amplifying the background sounds too.

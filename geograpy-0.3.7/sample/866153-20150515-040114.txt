@@ -1,0 +1,10 @@
+From what I know, this can be done, with a .lrc file. 
+
+BUT, it's enormous work, since you have to basically write it line by line, and input the time at which the text would appear. I've thought about doing this a few weeks ago, but then figured that I wasn't going to spend 2-3 times the duration of the recording just to make a .lrc file. 
+
+The end result would be a file that goes like this: 
+
+[00:15] Roses are red, violets are blue
+[00:18] Sugar is sweet, and so are you
+[00:20] The next line of the text goes here
+[00:23] And then some more until the end.

@@ -1,0 +1,1 @@
+I cable an old pioneer stereo casette component player to the line inputs of my sound card and record them directly into audiograbber which saves them as WAV files and then I convert them to MP3s with Audacity using LAME when necessary.  It only works in realtime, but that is quick enough for me.  Have fun with your high-speed efforts.  

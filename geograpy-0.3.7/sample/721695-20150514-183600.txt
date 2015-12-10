@@ -1,0 +1,5 @@
+We might need to go into a little admin huddle on this, just to make sure I'm not off beam.
+
+My reason for picking it up was simply that if you were listening to the file at comfortable volume, you'd have to strain to understand the disclaimer.  It should really be a part of your recording, rather than something dropped in.  That way, there's no possibility of doubt in the future that you have made the recording for LibriVox.  (It prevents anyone from downloading a non-LV recording from another source, adding the LV disclaimer, and submitting the file here as if it were an original LV recording).  The fact that it's not even you reading the disclaimer only strengthens my concern.
+
+David

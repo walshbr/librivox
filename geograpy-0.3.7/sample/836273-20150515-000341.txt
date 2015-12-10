@@ -1,0 +1,5 @@
+russiandoll wrote:But I'm only using Audacity 1.2.6, and it certainly records a second track starting underneath wherever the cursor is in the first - I use that when I find  an error while editing that I didn't notice when reading and need to rerecord and paste in: I do the new version under the old, so I can easily compare the waveforms and see where to cut.
+
+Yep that's exactly what I do too. Works like a charm and you don't have to go searching your file for the mistake you want to cover up as it is right there. One key point to remember is DELETE the second track!!!
+
+Esther

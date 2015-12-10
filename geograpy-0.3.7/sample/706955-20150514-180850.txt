@@ -1,0 +1,2 @@
+Quote:Needs 5 seconds more silence at the end. 10 seconds for files longer than 30 minutes.
+Fixed!

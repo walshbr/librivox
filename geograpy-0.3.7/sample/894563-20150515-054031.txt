@@ -1,0 +1,1 @@
+Try right-clicking on the white background on the Sound | Playback tab, and up will pop "Show disabled devices" and "Show disconnected devices". Ruth

@@ -1,0 +1,1 @@
+You won't get a password, because you're not yet entered into the workflow system. The workflow system doesn't use the same login/password as the forum does. Please use the generic login/password for the uploader:

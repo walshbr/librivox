@@ -1,0 +1,15 @@
+I would like chapters 10 and 12, please.
+
+Edit: Chapter 10 has a typo, I think, but I'm not sure how to correct it (or if I should). There is a table of heights to weights for the ideal female figure, and five foot ten is repeated thus: 
+
+Five feet 7 inches.  150
+Five feet 8 inches.  155
+Five feet 10 inches. 163
+Five feet 10 inches.  169
+Five feet 11 inches. 176
+Six feet  180
+Six feet 1 inch  186
+
+Because this error carries through the rest of the table (that is, no number is skipped) it may very well be in the original text; I don't know. Does anyone else?
+
+Edit again: The section on palmistry relies heavily on the diagrams of the hands included with the text. It references labeled areas to indicate what they are called: ie B--Mount of Venus and so forth. How is this to be handled?

@@ -1,0 +1,6 @@
+here: http://lame.sourceforge.net/index.php
+(it sends you here: http://sourceforge.net/project/showfile ... age_id=309 )
+
+Assuming you're using Windows, download, extract if it needs extracting (can't remember), remember where you've saved it, then in Audacity, 
+Edit > Preferences > file formats > find library
+and find your file

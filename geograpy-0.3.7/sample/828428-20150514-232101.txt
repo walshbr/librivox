@@ -1,0 +1,1 @@
+Probably too simple but... did you try setting it as the recording device in Audacity?

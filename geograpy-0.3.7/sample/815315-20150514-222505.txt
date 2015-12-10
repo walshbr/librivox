@@ -1,0 +1,1 @@
+Is it all right to use noise-cleaning in Audacity 2.0.5?

@@ -1,0 +1,7 @@
+I think those formulae are probably too complex to read out loud. I studied mathematics at University, and I don't think I'd do it.
+
+It might make sense to describe what the equations are trying to relate. For example, I would say that the first equation relates M to a (trigonometric function of) phi-zero. (That's pronounced "phi zero", not "phi minus zero", by the way.) If you can discover what M and phi-zero mean from the text (I don't read enough German to work that out, I'm afraid) you might want to substitute the meanings for the symbols.
+
+But I think the second equation is too complex even for this work-around to be helpful. That's because it involves eight different symbols.
+
+I had a quick look at the Google translation of that page, and although it isn't a very good translation, it's fairly clear that the young man (engineer?) is confused by Professor Zimt. If that's true, it makes perfect sense to describe the equations as complex and incomprehensible.

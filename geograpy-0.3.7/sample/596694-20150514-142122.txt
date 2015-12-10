@@ -1,0 +1,5 @@
+thanks Mim and Rayne for the PLing notes.  I've updated the MW.  I think I will mark this Listener Found since it looks like between the two of you we should be all set.  Rayne if you want you could work your way from the bottom up while Mim continues from the top down.
+
+dii wrote:Rayne wrote:I don't know how important this is, but there is not 5 seconds of silence at the beginning - the recording starts immediately.At the beginning there should be no more than 1 second, at the end there should be 5 seconds [and if the recording is longer than 30 minutes, then 10 seconds] Dii
+
+About 0.5-1 sec at the beginning is a good rule of thumb.  The extra silence at the end is added because some players apparently can cut off a couple of seconds at the end of a file and this way we make sure that none of the actual recording gets lost.  Longer silence at the beginning just means the listener has to wait too long a time between files if listening one after the other (as in a chapter book for example) so less is better.  

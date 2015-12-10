@@ -1,0 +1,19 @@
+chocoholic wrote:paulc wrote:I'll try to do an in car recording of the poem on my way home from work and post it later, so you can hear it.Now, Paul, I appreciate your dedication to the project but do please try not to run into a telephone pole.
+
+ 
+
+
+Here it is. Had to wait until I got home and wait for a quiet spot between the howls of cats and babies. It's a bit hissy, but I've not done my usual treatment, just adjusted for volume and left it as is.
+
+http://upload.librivox.org/share/upload ... rth_pc.mp3
+
+
+Recorded on Creative MuVo N200 on a full-size mic put through a Behringer PB100 pre-amp to boost the signal, and into the line-in port.
+
+In Sony Sound Forge:
+
+1. Changed from single-channel stereo to mono
+
+2. Raised the volume
+
+Usual clean-up for hissing not done.

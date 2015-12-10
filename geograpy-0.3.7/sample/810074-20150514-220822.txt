@@ -1,0 +1,7 @@
+thistlechick wrote:Do instructions exist for creating your own homepage at the Librivox Wiki?
+Betsie,
+
+If you mean something specific to LibriVox, I believe the answer is "No".
+
+Here's a brief start (forum and wiki accounts are independent):
+ Go to the Wiki: http://www.librivox.org/wiki/ Create an account for yourself: click on "Login" Click the "HelpContents" tab Notice the two links: HelpOnPageCreation - how to create a new page HelpOnEditing - how to edit a pageThey're on their way.
