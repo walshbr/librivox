@@ -53,7 +53,7 @@ def name_reg(text):
         if places.region_mentions:
             regions.update(unpack_fd(places.region_mentions))
         if places.city_mentions:
-            regions.update(unpack_fd(places.city_mentions))
+            cities.update(unpack_fd(places.city_mentions))
 
     return (countries, regions, cities)
 
