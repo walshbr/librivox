@@ -1,6 +1,9 @@
 import geograpy
 import os
 from nltk import FreqDist
+import multiprocessing as mp
+import codecs
+from collections import Counter
 
 
 def yield_corpus_filenames(corpus="corpus"):
@@ -31,43 +34,58 @@ def unpack_fd(fd):
     return unpacked
 
 
-file_names = list(yield_corpus_filenames("sample"))
+def read_file(filename):
+    """Read a file and return its contents."""
+    with codecs.open(filename, encoding='utf8') as f:
+        return f.read()
 
-# reading out place names
-countries = []
-regions = []
-cities = []
-counter = 0
 
-for fn in file_names:
-    test_data = []
-    with open(fn) as fin:
-        data = fin.read()
-    # print(data)
-    test_data.append(data)
-    if test_data[0] != '':
-        places = geograpy.get_place_context(text=unicode(data, "utf-8"))
-        # print(places)
+def name_reg(text):
+    """Return a triplet of recognized entities."""
+    countries = Counter()
+    regions = Counter()
+    cities = Counter()
+
+    if text:
+        places = geograpy.get_place_context(text=text)
         if places.country_mentions:
-            countries.append(places.country_mentions)
-            print(places.country_mentions)
+            countries.update(unpack_fd(places.country_mentions))
         if places.region_mentions:
-            regions.append(places.region_mentions)
-            print(places.region_mentions)
+            regions.update(unpack_fd(places.region_mentions))
         if places.city_mentions:
-            cities.append(places.city_mentions)
-            print(places.city_mentions)
-    print(counter)
-    counter += 1
+            regions.update(unpack_fd(places.city_mentions))
 
-countries = FreqDist(unpack_fd(flatten(countries)))
-regions = FreqDist(unpack_fd(flatten(regions)))
-cities = FreqDist(unpack_fd(flatten(cities)))
+    return (countries, regions, cities)
 
-with open('results.txt', 'w') as fout:
-    fout.write('\n=======================countries:\n')
-    fout.write(str(countries.items()))
-    fout.write('\n=======================regions:\n')
-    fout.write(str(regions.items()))
-    fout.write('\n=======================cities:\n')
-    fout.write(str(cities.items()))
+
+def main():
+    file_texts = (
+        read_file(filename) for filename in yield_corpus_filenames("sample")
+        )
+
+    # reading out place names
+    countries = Counter()
+    regions = Counter()
+    cities = Counter()
+    counter = 0
+
+    pool = mp.Pool()
+    counts = pool.map(name_reg, file_texts)
+    for (co, rg, ci) in counts:
+        countries += co
+        regions += rg
+        cities += ci
+        counter += 1
+
+    with open('results.txt', 'w') as fout:
+        fout.write("\ncount = {}\n".format(counter))
+        fout.write('\n=======================countries:\n')
+        fout.write(str(countries.items()))
+        fout.write('\n=======================regions:\n')
+        fout.write(str(regions.items()))
+        fout.write('\n=======================cities:\n')
+        fout.write(str(cities.items()))
+
+
+if __name__ == '__main__':
+    main()
