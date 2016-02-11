@@ -2,6 +2,7 @@ import geograpy
 import os
 from nltk import FreqDist
 
+
 def yield_corpus_filenames(corpus="corpus"):
     """given a function and a corpus directory, apply that function to all things in that directory"""
     if os.path.isdir(corpus):
@@ -12,9 +13,11 @@ def yield_corpus_filenames(corpus="corpus"):
     for fn in corpus:
         yield fn
 
+
 def flatten(nested_list):
     """Takes in a nested list of lists and flattens them out"""
     return [item for sublist in nested_list for item in sublist]
+
 
 def unpack_fd(fd):
     """Takes in a frequency distribution and returns a list of those items, unpacked all in one flat list."""
@@ -32,7 +35,7 @@ file_names = list(yield_corpus_filenames("sample"))
 
 # reading out place names
 countries = []
-regions =[]
+regions = []
 cities = []
 counter = 0
 
@@ -43,7 +46,7 @@ for fn in file_names:
     # print(data)
     test_data.append(data)
     if test_data[0] != '':
-        places = geograpy.get_place_context(text=unicode(data,"utf-8"))
+        places = geograpy.get_place_context(text=unicode(data, "utf-8"))
         # print(places)
         if places.country_mentions:
             countries.append(places.country_mentions)
@@ -60,3 +63,11 @@ for fn in file_names:
 countries = FreqDist(unpack_fd(flatten(countries)))
 regions = FreqDist(unpack_fd(flatten(regions)))
 cities = FreqDist(unpack_fd(flatten(cities)))
+
+with open('results.txt', 'w') as fout:
+    fout.write('\n=======================countries:\n')
+    fout.write(str(countries.items()))
+    fout.write('\n=======================regions:\n')
+    fout.write(str(regions.items()))
+    fout.write('\n=======================cities:\n')
+    fout.write(str(cities.items()))
