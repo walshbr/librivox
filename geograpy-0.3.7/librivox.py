@@ -90,14 +90,22 @@ def scrape_posts(url):
     soup = download(url)
 
     # gets the text of the posts and appends them to the posts list.
-    soup_posts = soup.find_all(class_="postbody")
-    for post in soup_posts:
-        post_string = str(post)
-        # only pulls in those posts not prefaced with underscores (because
-        # those are going to be user signatures)
-        if not re.findall(r'<br/>_________________<br/>', post_string):
-            post_text = post.get_text()
-            page_posts.append(post_text)
+    # pulls in all tables
+    soup_tables = soup.find_all('table')
+
+    for table in soup_tables:
+        # pull out date of the post
+        # will produce something like '\xa0Posted:: January 10th, 2006, 8:46 am\xa0' should the non-breaking unicode space be taken out? and what format should the date be stored in?
+        date = table.findAll('div')[0].get_text()
+        # from each table pull out all the posts
+        posts = table.find_all(class_="postbody")
+        for post in posts:
+            post_string = str(post)
+            # only pulls in those posts not prefaced with underscores (because
+            # those are going to be user signatures)
+            if not re.findall(r'<br/>_________________<br/>', post_string):
+                post_text = post.get_text()
+                page_posts.append(post_text)
     return page_posts
 
 
