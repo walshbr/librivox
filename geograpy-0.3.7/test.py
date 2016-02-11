@@ -80,11 +80,11 @@ def main():
     with open('results.txt', 'w') as fout:
         fout.write("\ncount = {}\n".format(counter))
         fout.write('\n=======================countries:\n')
-        fout.write(str(countries.items()))
+        fout.write(str(countries.most_common()))
         fout.write('\n=======================regions:\n')
-        fout.write(str(regions.items()))
+        fout.write(str(regions.most_common()))
         fout.write('\n=======================cities:\n')
-        fout.write(str(cities.items()))
+        fout.write(str(cities.most_common()))
 
 
 if __name__ == '__main__':
