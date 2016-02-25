@@ -102,9 +102,9 @@ def scrape_posts(url):
             date = dateutil.parser.parse(date)
         else:
             continue
-        post_body = (soup_date.find_parent('tr', class_='row1').
-                     find_next_sibling('tr', class_='row1').
-                     findAll('td')[1].div.get_text())
+        post_body = (soup_date.find_parent('tr', class_=re.compile('row')).
+                     find_next_sibling('tr', class_=re.compile('row')).
+                     contents[3].div.get_text())
         page_posts.append((date, post_body))
     return page_posts
 
