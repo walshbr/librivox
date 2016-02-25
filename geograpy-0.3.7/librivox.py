@@ -8,6 +8,7 @@ import random
 import sqlite3
 import os
 import dateutil.parser
+from datetime import timedelta
 
 
 posts = []
@@ -94,18 +95,26 @@ def scrape_posts(url):
     soup_dates = soup.find_all(class_='gensmall')
     for soup_date in soup_dates:
         if soup_date.div:
-            date = soup_date.div.get_text()
+            post_date = soup_date.div.get_text()
         else:
             continue
-        if 'Posted:: ' in date:
-            date = re.sub('\xa0Posted:: |\xa0', '', date)
-            date = dateutil.parser.parse(date)
+        if 'Posted:: ' in post_date:
+            post_date = re.sub('\xa0Posted:: |\xa0', '', post_date)
+            if 'Today' in post_date:
+                post_date = re.sub('Today, ', '', post_date)
+                post_date = dateutil.parser.parse(post_date).isoformat()
+            elif 'Yesterday' in post_date:
+                post_date = re.sub('Yesterday, ', '', post_date)
+                post_date = dateutil.parser.parse(post_date) - timedelta(1)
+                post_date = post_date.isoformat()
+            else:
+                post_date = dateutil.parser.parse(post_date).isoformat()
         else:
             continue
         post_body = (soup_date.find_parent('tr', class_=re.compile('row')).
                      find_next_sibling('tr', class_=re.compile('row')).
                      contents[3].div.get_text())
-        page_posts.append((date, post_body))
+        page_posts.append((post_date, post_body))
     return page_posts
 
 
@@ -181,10 +190,9 @@ def scrape_topic(topic_url, topic_id):
         url = paginator(url, counter, 15)
         posts = scrape_posts(url)
 
-        for (date, post) in posts:
+        for (post_date, post) in posts:
             topic_post_counter += 1
-            output.append((str(topic_id), date, str(post).replace('\t', ' ')))
-            print("Scraping post:    " + str(topic_post_counter))
+            output.append((str(topic_id), post_date, str(post).replace('\t', ' ')))
         counter += 1
 
     # checks to make sure there is no lost data. raises exception if there is.
