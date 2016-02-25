@@ -7,6 +7,7 @@ import time
 import random
 import sqlite3
 import os
+import dateutil.parser
 
 
 posts = []
@@ -89,23 +90,22 @@ def scrape_posts(url):
     # gets the url
     soup = download(url)
 
-    # gets the text of the posts and appends them to the posts list.
     # pulls in all tables
-    soup_tables = soup.find_all('table')
-
-    for table in soup_tables:
-        # pull out date of the post
-        # will produce something like '\xa0Posted:: January 10th, 2006, 8:46 am\xa0' should the non-breaking unicode space be taken out? and what format should the date be stored in?
-        date = table.findAll('div')[0].get_text()
-        # from each table pull out all the posts
-        posts = table.find_all(class_="postbody")
-        for post in posts:
-            post_string = str(post)
-            # only pulls in those posts not prefaced with underscores (because
-            # those are going to be user signatures)
-            if not re.findall(r'<br/>_________________<br/>', post_string):
-                post_text = post.get_text()
-                page_posts.append(post_text)
+    soup_dates = soup.find_all(class_='gensmall')
+    for soup_date in soup_dates:
+        if soup_date.div:
+            date = soup_date.div.get_text()
+        else:
+            continue
+        if 'Posted:: ' in date:
+            date = re.sub('\xa0Posted:: |\xa0', '', date)
+            date = dateutil.parser.parse(date)
+        else:
+            continue
+        post_body = (soup_date.find_parent('tr', class_='row1').
+                     find_next_sibling('tr', class_='row1').
+                     findAll('td')[1].div.get_text())
+        page_posts.append((date, post_body))
     return page_posts
 
 
@@ -159,7 +159,7 @@ def find_number_of_pages_or_topics(url):
 def insert_posts(cxn, posts):
     """Take the output of scrape_topic and insert it into the posts."""
     with closing(cxn.cursor()) as c:
-        c.executemany('INSERT INTO postings (url_id, text) VALUES (?, ?);', posts)
+        c.executemany('INSERT INTO postings (url_id, posted, text) VALUES (?, ?, ?);', posts)
 
 
 def scrape_topic(topic_url, topic_id):
@@ -180,10 +180,10 @@ def scrape_topic(topic_url, topic_id):
     while counter < num_pages:
         url = paginator(url, counter, 15)
         posts = scrape_posts(url)
-    
-        for post in posts:
+
+        for (date, post) in posts:
             topic_post_counter += 1
-            output.append((str(topic_id), str(post).replace('\t', ' ')))
+            output.append((str(topic_id), date, str(post).replace('\t', ' ')))
             print("Scraping post:    " + str(topic_post_counter))
         counter += 1
 
@@ -277,6 +277,7 @@ def open_db(filename):
                     );
                 CREATE TABLE postings (
                     id INTEGER PRIMARY KEY,
+                    posted REAL,
                     url_id INTEGER,
                     text TEXT,
                     scraped REAL DEFAULT (datetime('now'))
