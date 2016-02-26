@@ -9,7 +9,7 @@ import sqlite3
 import os
 import dateutil.parser
 from datetime import timedelta
-
+import datetime
 
 posts = []
 counter = 0
@@ -101,12 +101,15 @@ def scrape_posts(url):
         if 'Posted:: ' in post_date:
             post_date = re.sub('\xa0Posted:: |\xa0', '', post_date)
             if 'Today' in post_date:
-                post_date = re.sub('Today, ', '', post_date)
+                post_date = re.sub('Today, |\xa0', '', post_date)
                 post_date = dateutil.parser.parse(post_date).isoformat()
             elif 'Yesterday' in post_date:
-                post_date = re.sub('Yesterday, ', '', post_date)
+                post_date = re.sub('Yesterday, |\xa0', '', post_date)
                 post_date = dateutil.parser.parse(post_date) - timedelta(1)
                 post_date = post_date.isoformat()
+            elif 'minutes' in post_date:
+                post_date = re.sub(' minutes ago|\xa0', '', post_date)
+                post_date = (datetime.datetime.now() - timedelta(minutes=post_date.to_i)).isoformat()
             else:
                 post_date = dateutil.parser.parse(post_date).isoformat()
         else:
