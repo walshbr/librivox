@@ -109,7 +109,7 @@ def scrape_posts(url):
                 post_date = post_date.isoformat()
             elif 'minutes' in post_date:
                 post_date = re.sub(' minutes ago|\xa0', '', post_date)
-                post_date = (datetime.datetime.now() - timedelta(minutes=post_date.to_i)).isoformat()
+                post_date = (datetime.datetime.now() - timedelta(minutes=int(post_date))).isoformat()
             else:
                 post_date = dateutil.parser.parse(post_date).isoformat()
         else:
