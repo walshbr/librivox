@@ -45,14 +45,15 @@ def main(argv=None):
                 key = (posted.year, posted.month)
                 if key not in index:
                     index[key] = Counter()
-                index[key].update((freqs / len(nltk.word_tokenize(text))))
+                index[key].update(freqs)
 
     groups = list(index.items())
     groups.sort()
     writer = csv.writer(sys.stdout)
     writer.writerow(('year-month', term0, term1))
     writer.writerows(
-        ('{}-{}'.format(*date), freqs[term0], freqs[term1])
+        ('{}-{}'.format(*date), freqs[term0]/len(list(freqs.elements())),
+            freqs[term1]/len(list(freqs.elements())))
         for (date, freqs) in groups
     )
 
