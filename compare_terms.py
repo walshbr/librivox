@@ -41,10 +41,11 @@ def main(argv=None):
                 freqs = Counter(
                     token.lower() for token in nltk.word_tokenize(text)
                     )
+                # normalized_freqs = (freqs / len(nltk.word_tokenize(text)))
                 key = (posted.year, posted.month)
                 if key not in index:
                     index[key] = Counter()
-                index[key].update(freqs)
+                index[key].update((freqs / len(nltk.word_tokenize(text))))
 
     groups = list(index.items())
     groups.sort()
