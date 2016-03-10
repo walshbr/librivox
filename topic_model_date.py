@@ -36,8 +36,7 @@ def fetch_date(given_url):
         print(given_url_id)
         # take url id, find the associated post, and
         # pull out a posted date_time
-        posted_date_time = c.execute('SELECT posted FROM postings WHERE url_id = ?;', [given_url_id]).fetchone()[0]
-    return posted_date_time
+        return c.execute('SELECT posted FROM postings WHERE url_id = ?;', [given_url_id]).fetchone()[0]
 
 
 def replace_urls_with_date(content):
