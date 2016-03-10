@@ -23,27 +23,18 @@ def read_database():
         return list(reader)[1:]
 
 
-def fetch_date(given_url):
-    """Given the url of a post, fetch its posted date_time"""
-    cxn = sqlite3.connect(DB_FILE)
-    with closing(cxn.cursor()) as c:
-        # take url and pull out url id
-        given_url_id = c.execute("""
-            SELECT id FROM urls WHERE replace(
-            replace(replace(replace(replace(
-            url,'&' ,''),'=' ,''),'/', ''), ':', ''), '?', '') = ?;
-            """, [given_url]).fetchone()[0]
-        print(given_url_id)
-        # take url id, find the associated post, and
-        # pull out a posted date_time
-        return c.execute('SELECT posted FROM postings WHERE url_id = ?;', [given_url_id]).fetchone()[0]
-
-
 def replace_urls_with_date(content):
     """given a line of the topic model document, replace
     the url with the posted date."""
-    for line in content:
-        line[1] = fetch_date(line[1])
+    cxn = sqlite3.connect(DB_FILE)
+    with closing(cxn.cursor()) as c:
+        for line in content:
+            given_url_id = c.execute("""
+            SELECT id FROM urls WHERE replace(
+            replace(replace(replace(replace(
+            url,'&' ,''),'=' ,''),'/', ''), ':', ''), '?', '') = ?;
+            """, [line[1]]).fetchone()[0]
+            line[1] = c.execute('SELECT posted FROM postings WHERE url_id = ?;', [given_url_id]).fetchone()[0]
     return content
 
 
