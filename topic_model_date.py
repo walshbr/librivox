@@ -2,6 +2,7 @@
 database, run over that document to associate dates with topics.
 then produce a csv that can be graphed."""
 
+
 import csv
 
 from contextlib import closing
@@ -9,6 +10,8 @@ import sqlite3
 
 from collections import Counter
 import dateutil.parser
+
+"""TODO: Speed up. Normalize for document frequency."""
 
 TOPIC_COMPOSITION_FILE = 'librivox_composition.txt'
 # TOPIC_COMPOSITION_FILE = 'librivox_composition_test.txt'
@@ -51,8 +54,8 @@ def prep_dict(d):
 def main():
     """""Main stuff of the program."""
     content = read_database()
+    # next line should probably be refactored - right now it's going into every line of content twice. should probably be included instead as part of the loop below. Also needs to scaled for document length.
     content = replace_urls_with_date(content)
-    # compile_topic_proportions(content)
     index = {}
     for line in content:
         # TODO: need to process it a little so that it's in better shape for the ingestion into the counter. maybe put the things in a hash so that the topics are keys for the percentages which are the values? Then maybe a counter would take it up.
