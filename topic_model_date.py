@@ -4,6 +4,9 @@ then produce a csv that can be graphed."""
 
 
 import csv
+import pprint
+import statistics
+import sys
 
 import datetime
 from contextlib import closing
@@ -15,8 +18,8 @@ import dateutil.parser
 
 """TODO: Speed up. Normalize for document frequency."""
 
-TOPIC_COMPOSITION_FILE = 'librivox_composition.txt'
-# TOPIC_COMPOSITION_FILE = 'librivox_composition_test.txt'
+# TOPIC_COMPOSITION_FILE = 'librivox_composition.txt'
+TOPIC_COMPOSITION_FILE = 'librivox_composition_test.txt'
 DB_FILE = 'librivox.db'
 
 
@@ -60,6 +63,8 @@ def main():
     # every line of content twice. should probably be included instead as
     # part of the loop below. Also needs to scaled for document length.
     url_index = load_url_index()
+
+    # [month, year] => { topic # => [values] }
     index = {}
     for line in content:
         line[1] = url_index[line[1]]
@@ -67,27 +72,38 @@ def main():
         # the ingestion into the counter. maybe put the things in a hash so
         # that the topics are keys for the percentages which are the values?
         # Then maybe a counter would take it up.
-        key = (dateutil.parser.parse(line[1]).year,
-               dateutil.parser.parse(line[1]).month)
-        i = iter(line[2:-1])
-        # produces a hash of the line with the id and blank space removed.
-        b = dict(zip(i, i))
-        for item in b:
-            b[item] = float(b[item])
-        freqs = Counter(b)
-        if key not in index:
-            index[key] = Counter()
-        index[key].update(freqs)
-    index = list(index.items())
-    index = [prep_dict(item) for item in index]
+        date = dateutil.parser.parse(line[1])
+        key = (date.year, date.month)
+        topic_values = line[2:-1]
+
+        month_values = index.get(key)
+        if month_values is None:
+            month_values = dict(
+                (topic_values[i], [float(topic_values[i+1])])
+                for i in range(0, len(topic_values), 2)
+            )
+            index[key] = month_values
+        else:
+            for i in range(0, len(topic_values), 2):
+                month_values[topic_values[i]].append(float(topic_values[i+1]))
+
+    # [month, year] => { topic # => mean value }
+    rows = []
+    for (date_key, topic_values) in index.items():
+        row = dict(
+            (topic, statistics.mean(values))
+            for (topic, values) in topic_values.items()
+        )
+        row['year-month'] = '%s-%s' % date_key
+        rows.append(row)
+
     with open('results.csv', 'w') as csvfile:
         fieldnames = ['year-month', '0', '1', '2', '3', '4', '5', '6', '7',
                       '8', '9', '10', '11', '12', '13', '14', '15', '16',
                       '17', '18', '19']
         writer = csv.DictWriter(csvfile, delimiter=',', fieldnames=fieldnames)
         writer.writeheader()
-        for row in index:
-            writer.writerow(row)
+        writer.writerows(rows)
 
 if __name__ == '__main__':
     main()
