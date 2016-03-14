@@ -28,7 +28,7 @@ def read_database():
         return list(reader)[1:]
 
 
-def replace_urls_with_date(content):
+def load_url_index():
     """given a line of the topic model document, replace
     the url with the posted date."""
     cxn = sqlite3.connect(DB_FILE)
@@ -36,13 +36,10 @@ def replace_urls_with_date(content):
         urls = c.execute("""SELECT u.url, p.posted
                          FROM urls u, postings p
                          WHERE u.id=p.url_id;""")
-        url_index = dict(
+        return dict(
             (re.sub(r'[^\w\.]', '', url), posted)
             for (url, posted) in urls
         )
-    for line in content:
-        line[1] = url_index[line[1]]
-    return content
 
 
 def prep_dict(d):
@@ -62,9 +59,10 @@ def main():
     # next line should probably be refactored - right now it's going into
     # every line of content twice. should probably be included instead as
     # part of the loop below. Also needs to scaled for document length.
-    content = replace_urls_with_date(content)
+    url_index = load_url_index()
     index = {}
     for line in content:
+        line[1] = url_index[line[1]]
         # TODO: need to process it a little so that it's in better shape for
         # the ingestion into the counter. maybe put the things in a hash so
         # that the topics are keys for the percentages which are the values?
