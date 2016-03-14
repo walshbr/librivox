@@ -5,7 +5,9 @@ then produce a csv that can be graphed."""
 
 import csv
 
+import datetime
 from contextlib import closing
+import re
 import sqlite3
 
 from collections import Counter
@@ -31,18 +33,21 @@ def replace_urls_with_date(content):
     the url with the posted date."""
     cxn = sqlite3.connect(DB_FILE)
     with closing(cxn.cursor()) as c:
-        for line in content:
-            given_url_id = c.execute("""
-            SELECT id FROM urls WHERE replace(
-            replace(replace(replace(replace(
-            url,'&' ,''),'=' ,''),'/', ''), ':', ''), '?', '') = ?;
-            """, [line[1]]).fetchone()[0]
-            line[1] = c.execute('SELECT posted FROM postings WHERE url_id = ?;', [given_url_id]).fetchone()[0]
+        urls = c.execute("""SELECT u.url, p.posted
+                         FROM urls u, postings p
+                         WHERE u.id=p.url_id;""")
+        url_index = dict(
+            (re.sub(r'[^\w\.]', '', url), posted)
+            for (url, posted) in urls
+        )
+    for line in content:
+        line[1] = url_index[line[1]]
     return content
 
 
 def prep_dict(d):
-    """Takes in a tuple of a date and a list of proportions. Combines them into a new flat dict."""
+    """Takes in a tuple of a date and a list of proportions. Combines them
+    into a new flat dict."""
     new_dict = {}
     new_dict["year-month"] = str(list(d[0])[0]) + '-' + str(list(d[0])[1])
     flat_dict = dict(d[1].items())
@@ -54,12 +59,18 @@ def prep_dict(d):
 def main():
     """""Main stuff of the program."""
     content = read_database()
-    # next line should probably be refactored - right now it's going into every line of content twice. should probably be included instead as part of the loop below. Also needs to scaled for document length.
+    # next line should probably be refactored - right now it's going into
+    # every line of content twice. should probably be included instead as
+    # part of the loop below. Also needs to scaled for document length.
     content = replace_urls_with_date(content)
     index = {}
     for line in content:
-        # TODO: need to process it a little so that it's in better shape for the ingestion into the counter. maybe put the things in a hash so that the topics are keys for the percentages which are the values? Then maybe a counter would take it up.
-        key = (dateutil.parser.parse(line[1]).year, dateutil.parser.parse(line[1]).month)
+        # TODO: need to process it a little so that it's in better shape for
+        # the ingestion into the counter. maybe put the things in a hash so
+        # that the topics are keys for the percentages which are the values?
+        # Then maybe a counter would take it up.
+        key = (dateutil.parser.parse(line[1]).year,
+               dateutil.parser.parse(line[1]).month)
         i = iter(line[2:-1])
         # produces a hash of the line with the id and blank space removed.
         b = dict(zip(i, i))
@@ -72,7 +83,9 @@ def main():
     index = list(index.items())
     index = [prep_dict(item) for item in index]
     with open('results.csv', 'w') as csvfile:
-        fieldnames = ['year-month', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
+        fieldnames = ['year-month', '0', '1', '2', '3', '4', '5', '6', '7',
+                      '8', '9', '10', '11', '12', '13', '14', '15', '16',
+                      '17', '18', '19']
         writer = csv.DictWriter(csvfile, delimiter=',', fieldnames=fieldnames)
         writer.writeheader()
         for row in index:
