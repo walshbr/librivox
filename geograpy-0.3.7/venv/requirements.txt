@@ -47,4 +47,4 @@ tabulate==0.7.5
 tldextract==1.5.1
 urllib3==1.11
 virtualenv==13.1.2
-Werkzeug==0.10.4
+Werkzeug==0.15.3
