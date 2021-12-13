@@ -16,7 +16,7 @@ itsdangerous==0.24
 jellyfish==0.5.1
 jieba==0.35
 Jinja2==2.8
-lxml==4.6.2
+lxml==4.6.5
 MarkupSafe==0.23
 matplotlib==1.4.2
 newspaper==0.0.9.8
