@@ -11,7 +11,7 @@ geograpy==0.3.7
 gnureadline==6.3.3
 html5lib==0.9999999
 httplib2==0.9.1
-ipython==2.3.1
+ipython==7.16.3
 itsdangerous==0.24
 jellyfish==0.5.1
 jieba==0.35
